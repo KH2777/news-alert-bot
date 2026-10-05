@@ -106,18 +106,25 @@ def classify_calendar(title: str, country: str, ff_impact: str):
     return None
 
 
-def classify_trump(details: str, coverage: str | None):
-    text = details or ""
+def classify_trump(details: str, coverage: str | None, sensitive: bool = True):
+    """sensitive=True: любое публичное событие с прессой считается важным,
+    потому что Трамп часто отвечает на вопросы журналистов на любых мероприятиях."""
+    text = re.sub(r"^TBD:\s*", "", details or "")
     if TRUMP_EXCLUDE.search(text):
         return None
-    if coverage and coverage.strip().lower() == "closed press":
+    cov = (coverage or "").strip().lower()
+    if cov == "closed press":
         return None
     for pattern, level, label, note in TRUMP_RULES:
         if re.search(pattern, text, re.I):
             return level, label, note
-    # Любое открытое для прессы событие с Трампом — средний риск
-    if coverage and "open" in coverage.lower():
-        return 1, "Публичное мероприятие", "Открыто для прессы — возможны незапланированные заявления."
+    press = any(w in cov for w in ("open", "pool", "spray", "credentialed", "travel"))
+    if sensitive and press:
+        return 2, "Публичное мероприятие с прессой", (
+            "Журналисты рядом — Трамп часто отвечает на вопросы (тарифы, ФРС, Китай) "
+            "даже на мероприятиях на постороннюю тему.")
+    if press or not cov:
+        return 1, "Публичное мероприятие", "Возможны незапланированные заявления."
     return None
 
 
