@@ -163,7 +163,7 @@ def trump_raw() -> list[dict]:
 
 
 def clean_details(d: str) -> str:
-    return re.sub(r"^TBD:\s*|\s*\[\w+ Local\]", "", (d or "").strip())
+    return re.sub(r"^TBD:\s*|\s*\[[^\]]*Local\]", "", (d or "").strip())
 
 
 def load_trump() -> list[Event]:
@@ -175,14 +175,10 @@ def load_trump() -> list[Event]:
         cls = impact.classify_trump(details, item.get("coverage"), TRUMP_SENSITIVE)
         if not cls:
             continue
-        tz, time_note = ET, "ET"
-        m = re.search(r"\[(\w{3,4}) Local\]", details)
-        if m:
-            tz_name = LOCAL_TAGS.get(m.group(1).upper())
-            if tz_name:
-                tz, time_note = ZoneInfo(tz_name), f"{m.group(1)} local"
-            else:
-                time_note = f"⚠️ время указано по местному ({m.group(1)}), пересчёт может быть неточным"
+        # Поле time в расписании Белого дома всегда по ET; в скобках — местное время площадки
+        tz = ET
+        m = re.search(r"\[([^\]]*\d[^\]]*) Local\]", details)
+        time_note = f"местное время площадки: {m.group(1)}" if m else ""
         try:
             naive = datetime.fromisoformat(f"{item['date']}T{item['time']}")
         except Exception:
@@ -275,7 +271,7 @@ def format_alert(group: list[Event], now: datetime, final: bool) -> str:
             lines.append(f"   прогноз: <b>{esc(e.forecast or '—')}</b> · пред.: {esc(e.previous or '—')}")
         if e.location:
             lines.append(f"   📍 {esc(e.location)}")
-        if e.time_note and e.time_note != "ET":
+        if e.time_note:
             lines.append(f"   {esc(e.time_note)}")
     if final:
         lines += ["", f"🛡 {esc(impact.risk_advice(top))}"]
@@ -534,10 +530,7 @@ def do_trump_schedule_updates(state: dict, now: datetime) -> None:
     for item, (level, label, _) in sorted(new_items, key=lambda x: (x[0]["date"], x[0].get("time") or "99")):
         top = max(top, level)
         if item.get("time"):
-            details = item.get("details") or ""
-            m = re.search(r"\[(\w{3,4}) Local\]", details)
-            tz = ZoneInfo(LOCAL_TAGS.get(m.group(1).upper(), "America/New_York")) if m else ET
-            when = datetime.fromisoformat(f"{item['date']}T{item['time']}").replace(tzinfo=tz)
+            when = datetime.fromisoformat(f"{item['date']}T{item['time']}").replace(tzinfo=ET)
             t = f"{fmt_day(when)} <b>{fmt_time(when)}</b>"
         else:
             d = datetime.fromisoformat(item["date"]).replace(tzinfo=ET) + timedelta(hours=12)

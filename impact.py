@@ -34,9 +34,11 @@ RULES = [
      "Движение обычно меньше, чем на решении, но резкий импульс в первые минуты возможен."),
     (r"Fed Chair|Powell|Warsh", 2, "Выступление главы ФРС",
      "Любой намёк на траекторию ставок двигает USD, облигации, индексы и BTC. Особенно опасна Q&A-часть."),
+    (r"(BOJ Gov|ECB President|BOE Gov|SNB Chairman|BOC Gov|RBA Gov)\b.*Speaks|Lagarde|Ueda|Bailey", 2,
+     "Выступление главы ЦБ", "Намёки на ставку двигают валюту страны и кроссы."),
     (r"Main Refinancing Rate|ECB Press Conference|Monetary Policy Statement.*EUR", 3,
      "Решение ЕЦБ", "Основной драйвер EUR. Пресс-конференция через 45 мин после решения — вторая волна."),
-    (r"Official Bank Rate|MPC Official Bank Rate|BOE", 3, "Решение Банка Англии",
+    (r"Official Bank Rate|BOE Monetary Policy Report|BOE Gov Bailey Speaks", 3, "Решение Банка Англии",
      "Сильные движения GBP, особенно при расколе голосов MPC."),
     (r"BOJ Policy Rate|BOJ Press Conference|Monetary Policy Statement.*JPY", 3,
      "Решение Банка Японии", "Риск резких движений JPY и carry-trade разворотов, задевает глобальные индексы и крипту."),
@@ -93,13 +95,22 @@ TRUMP_EXCLUDE = re.compile(
 TRUMP_ASSETS = "S&P 500 / Nasdaq, DXY и мажоры, USD/CNH, нефть, золото, BTC/ETH"
 
 
+CB_LABEL = re.compile(r"Решение|ФРС|глав", re.I)
+
+
 def classify_calendar(title: str, country: str, ff_impact: str):
     """Возвращает (level, label, note) или None, если событие не важно."""
     for pattern, level, label, note in RULES:
         if re.search(pattern, title, re.I):
-            # Понижаем уровень для второстепенных стран, если FF не дал High
+            # Понижаем уровень, если ForexFactory не дал High
             if ff_impact != "High" and level > 1:
                 level -= 1
+            # Макростатистика не США (кроме решений ЦБ) — на ступень ниже:
+            # для мультиактивной книги она двигает в основном свою валюту
+            if country not in ("USD", "All") and level > 1 and not CB_LABEL.search(label):
+                level -= 1
+                label = f"{label.replace(' (NFP)', '')} ({country})"
+                note = f"Макростатистика {country}: двигает в первую очередь {CCY_ASSETS.get(country, country)}."
             return level, label, note
     if ff_impact == "High":
         return 2, "Важное событие", "ForexFactory помечает как высокий импакт."
