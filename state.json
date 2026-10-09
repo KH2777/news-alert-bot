@@ -72,13 +72,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-05T21:23:37+00:00",
-   "text": "Annie “Trannie” Andrews is running against our wonderful Darline Graham for the Senate in ",
-   "topics": [
-    "Геополитика / война"
-   ]
-  },
-  {
    "t": "2026-10-06T02:54:14+00:00",
    "text": "Chuck Gray has been a tremendous Secretary of State for the Great State of Wyoming, a plac",
    "topics": [
@@ -147,6 +140,15 @@
    "text": "Melania Trump makes history presiding over UN Security Council — remarking on Iran war dea",
    "topics": [
     "Геополитика / война",
+    "Ближний Восток"
+   ]
+  },
+  {
+   "t": "2026-10-09T13:25:16+00:00",
+   "text": "RT @SchoenlawToday the Nobel Committee shamed itself beyond repair and demeaned the once g",
+   "topics": [
+    "Геополитика / война",
+    "Россия / Украина",
     "Ближний Восток"
    ]
   }
@@ -298,6 +300,9 @@
   "117408226875989984",
   "117408228489272278",
   "117408281179466427",
-  "117408959105269388"
+  "117408959105269388",
+  "117410832645522999",
+  "117411172629254329",
+  "117411241255928585"
  ]
 }
