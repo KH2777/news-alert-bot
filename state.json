@@ -73,14 +73,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-06T02:54:14+00:00",
-   "text": "Chuck Gray has been a tremendous Secretary of State for the Great State of Wyoming, a plac",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
    "t": "2026-10-06T02:55:20+00:00",
    "text": "It is my Great Honor to endorse Highly Respected State Representative Johnny Garrett, who ",
    "topics": [
@@ -147,6 +139,15 @@
   {
    "t": "2026-10-09T13:25:16+00:00",
    "text": "RT @SchoenlawToday the Nobel Committee shamed itself beyond repair and demeaned the once g",
+   "topics": [
+    "Геополитика / война",
+    "Россия / Украина",
+    "Ближний Восток"
+   ]
+  },
+  {
+   "t": "2026-10-09T18:46:23+00:00",
+   "text": "I have just concluded a highly successful discussion with President Vladimir Putin, of Rus",
    "topics": [
     "Геополитика / война",
     "Россия / Украина",
@@ -304,6 +305,7 @@
   "117408959105269388",
   "117410832645522999",
   "117411172629254329",
-  "117411241255928585"
+  "117411241255928585",
+  "117412435306815143"
  ]
 }
