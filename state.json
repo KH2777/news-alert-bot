@@ -72,14 +72,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-06T02:55:20+00:00",
-   "text": "It is my Great Honor to endorse Highly Respected State Representative Johnny Garrett, who ",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
    "t": "2026-10-06T03:18:50+00:00",
    "text": "HUGE INVESTMENT WIN for NEBRASKA AND THE U.S.!\nBeckton Dickenson (BD), one of the largest ",
    "topics": [
@@ -151,6 +143,15 @@
     "Геополитика / война",
     "Россия / Украина",
     "Ближний Восток"
+   ]
+  },
+  {
+   "t": "2026-10-10T03:39:58+00:00",
+   "text": "This is the woman who received the Nobel Peace Prize over the Great United States of Ameri",
+   "topics": [
+    "Китай",
+    "Геополитика / война",
+    "Россия / Украина"
    ]
   }
  ],
@@ -309,6 +310,7 @@
   "117412623263536077",
   "117412672479473994",
   "117412899117853172",
-  "117413185767843476"
+  "117413185767843476",
+  "117414533410378018"
  ]
 }
