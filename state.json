@@ -73,13 +73,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-07T21:24:28+00:00",
-   "text": "Three years ago today, on October 7th, the World witnessed one of the darkest and most evi",
-   "topics": [
-    "Ближний Восток"
-   ]
-  },
-  {
    "t": "2026-10-07T22:02:27+00:00",
    "text": "To the people of Texas, I am headed your way, and one of the people that I am going to pay",
    "topics": [
@@ -153,6 +146,13 @@
    "text": "The American people are 'under attack' by US enemies and allies, John Catsimatidis argues:",
    "topics": [
     "Геополитика / война"
+   ]
+  },
+  {
+   "t": "2026-10-10T14:42:55+00:00",
+   "text": "Robert Jeffress, senior pastor of First Baptist Dallas, says he supports public execution ",
+   "topics": [
+    "Указы / заявления"
    ]
   }
  ],
@@ -328,6 +328,7 @@
   "117416516229323591",
   "117416527037598151",
   "117416561047667860",
-  "117416713825849501"
+  "117416713825849501",
+  "117417140250778882"
  ]
 }
