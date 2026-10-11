@@ -74,15 +74,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-08T16:17:11+00:00",
-   "text": "We are having productive discussions with the Islamic Republic of Iran. I want to make it ",
-   "topics": [
-    "Нефть / энергетика",
-    "Геополитика / война",
-    "Ближний Восток"
-   ]
-  },
-  {
    "t": "2026-10-08T18:59:10+00:00",
    "text": "The Fake and Artificial News is out there trying to say that I’m inviting the enemy to bom",
    "topics": [
@@ -154,6 +145,14 @@
    "text": "I am proud to announce that I have just appointed Katie Bailey as Director of the Office o",
    "topics": [
     "Указы / заявления"
+   ]
+  },
+  {
+   "t": "2026-10-11T14:16:38+00:00",
+   "text": "Effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine.",
+   "topics": [
+    "Геополитика / война",
+    "Россия / Украина"
    ]
   }
  ],
@@ -338,6 +337,13 @@
   "117419344133655598",
   "117419345256359809",
   "117419806852030114",
-  "117419813539563711"
+  "117419813539563711",
+  "117422699218841250",
+  "117422767694140491",
+  "117422897092397528",
+  "117422903045682248",
+  "117422907738688355",
+  "117422953300698902",
+  "117422954113878348"
  ]
 }
