@@ -76,15 +76,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-08T18:59:10+00:00",
-   "text": "The Fake and Artificial News is out there trying to say that I’m inviting the enemy to bom",
-   "topics": [
-    "Нефть / энергетика",
-    "Геополитика / война",
-    "Ближний Восток"
-   ]
-  },
-  {
    "t": "2026-10-09T00:56:32+00:00",
    "text": "Melania Trump makes history presiding over UN Security Council — remarking on Iran war dea",
    "topics": [
@@ -155,6 +146,13 @@
    "topics": [
     "Геополитика / война",
     "Россия / Украина"
+   ]
+  },
+  {
+   "t": "2026-10-11T21:37:18+00:00",
+   "text": "I am pleased to announce that Katie Zacharia will be beginning her term as Press Secretary",
+   "topics": [
+    "Указы / заявления"
    ]
   }
  ],
@@ -347,6 +345,8 @@
   "117422907738688355",
   "117422953300698902",
   "117422954113878348",
-  "117424308243914403"
+  "117424308243914403",
+  "117424431971621400",
+  "117424510700770095"
  ]
 }
