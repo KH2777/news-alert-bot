@@ -76,13 +76,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-07T22:02:27+00:00",
-   "text": "To the people of Texas, I am headed your way, and one of the people that I am going to pay",
-   "topics": [
-    "Указы / заявления"
-   ]
-  },
-  {
    "t": "2026-10-08T16:17:11+00:00",
    "text": "We are having productive discussions with the Islamic Republic of Iran. I want to make it ",
    "topics": [
@@ -154,6 +147,13 @@
   {
    "t": "2026-10-10T14:42:55+00:00",
    "text": "Robert Jeffress, senior pastor of First Baptist Dallas, says he supports public execution ",
+   "topics": [
+    "Указы / заявления"
+   ]
+  },
+  {
+   "t": "2026-10-10T23:45:02+00:00",
+   "text": "I am proud to announce that I have just appointed Katie Bailey as Director of the Office o",
    "topics": [
     "Указы / заявления"
    ]
@@ -335,6 +335,9 @@
   "117417140250778882",
   "117418053695775945",
   "117418068661995353",
-  "117418148236895862"
+  "117418148236895862",
+  "117419271924268127",
+  "117419344133655598",
+  "117419345256359809"
  ]
 }
