@@ -82,15 +82,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-09T13:25:16+00:00",
-   "text": "RT @SchoenlawToday the Nobel Committee shamed itself beyond repair and demeaned the once g",
-   "topics": [
-    "Геополитика / война",
-    "Россия / Украина",
-    "Ближний Восток"
-   ]
-  },
-  {
    "t": "2026-10-09T18:46:23+00:00",
    "text": "I have just concluded a highly successful discussion with President Vladimir Putin, of Rus",
    "topics": [
@@ -160,6 +151,15 @@
     "Геополитика / война",
     "Экономика",
     "Указы / заявления"
+   ]
+  },
+  {
+   "t": "2026-10-13T02:45:46+00:00",
+   "text": "I see so many comments from the Radical Left Morons and Lunatics that China and Russia are",
+   "topics": [
+    "Китай",
+    "Россия / Украина",
+    "Ближний Восток"
    ]
   }
  ],
@@ -398,6 +398,7 @@
   "117428604395341775",
   "117429478167142246",
   "117429543347855465",
-  "117429568546648987"
+  "117429568546648987",
+  "117431307261297275"
  ]
 }
