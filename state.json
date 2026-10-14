@@ -113,21 +113,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-10T23:45:02+00:00",
-   "text": "I am proud to announce that I have just appointed Katie Bailey as Director of the Office o",
-   "topics": [
-    "Указы / заявления"
-   ]
-  },
-  {
-   "t": "2026-10-11T14:16:38+00:00",
-   "text": "Effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine.",
-   "topics": [
-    "Геополитика / война",
-    "Россия / Украина"
-   ]
-  },
-  {
    "t": "2026-10-11T21:37:18+00:00",
    "text": "I am pleased to announce that Katie Zacharia will be beginning her term as Press Secretary",
    "topics": [
@@ -190,6 +175,24 @@
    "topics": [
     "Нефть / энергетика",
     "Геополитика / война"
+   ]
+  },
+  {
+   "t": "2026-10-14T16:29:18+00:00",
+   "text": "I was just in Alaska launching the largest Energy Infrastructure Project in Alaska History",
+   "topics": [
+    "Китай",
+    "Нефть / энергетика",
+    "Доллар / долг / бюджет"
+   ]
+  },
+  {
+   "t": "2026-10-14T16:39:39+00:00",
+   "text": "ANOTHER MASSIVE 21 BILLION DOLLAR INVESTMENT FOR AMERICA!\nToday, under my leadership, Glob",
+   "topics": [
+    "Тарифы / торговля",
+    "Китай",
+    "Доллар / долг / бюджет"
    ]
   }
  ],
@@ -483,6 +486,8 @@
   "117439109117320192",
   "117439113014880144",
   "117439118252449992",
-  "117439121961898835"
+  "117439121961898835",
+  "117440207836405365",
+  "117440248541514637"
  ]
 }
