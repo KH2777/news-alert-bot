@@ -117,13 +117,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-11T21:37:18+00:00",
-   "text": "I am pleased to announce that Katie Zacharia will be beginning her term as Press Secretary",
-   "topics": [
-    "Указы / заявления"
-   ]
-  },
-  {
    "t": "2026-10-12T19:17:11+00:00",
    "text": "Senator Roger Marshall is working incredibly hard for the Great State of Kansas, which I l",
    "topics": [
@@ -198,10 +191,17 @@
     "Китай",
     "Доллар / долг / бюджет"
    ]
+  },
+  {
+   "t": "2026-10-15T04:56:13+00:00",
+   "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117443139790546115Actual pictur",
+   "topics": [
+    "Геополитика / война",
+    "Доллар / долг / бюджет"
+   ]
   }
  ],
  "truth_seen": [
-  "117366844728020252",
   "117366845448721312",
   "117366933918841897",
   "117366981010865903",
@@ -497,6 +497,10 @@
   "117441005010525427",
   "117441698269818123",
   "117442172893771046",
-  "117442762383256176"
+  "117442762383256176",
+  "117443139790546115",
+  "117443144788808814",
+  "117443148049952515",
+  "117443188503232131"
  ]
 }
