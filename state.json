@@ -128,15 +128,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-12T19:17:11+00:00",
-   "text": "Senator Roger Marshall is working incredibly hard for the Great State of Kansas, which I l",
-   "topics": [
-    "Геополитика / война",
-    "Экономика",
-    "Указы / заявления"
-   ]
-  },
-  {
    "t": "2026-10-13T02:45:46+00:00",
    "text": "I see so many comments from the Radical Left Morons and Lunatics that China and Russia are",
    "topics": [
@@ -210,10 +201,16 @@
     "Геополитика / война",
     "Доллар / долг / бюджет"
    ]
+  },
+  {
+   "t": "2026-10-16T04:52:55+00:00",
+   "text": "James TalaFREAKO, who is running for U.S. Senate against the greatest Attorney General in ",
+   "topics": [
+    "Нефть / энергетика"
+   ]
   }
  ],
  "truth_seen": [
-  "117371677010048663",
   "117372766735299421",
   "117372767454121009",
   "117373336850052625",
@@ -512,6 +509,7 @@
   "117445802849453813",
   "117446805111809348",
   "117447474430342324",
-  "117447552866730873"
+  "117447552866730873",
+  "117448794145800937"
  ]
 }
