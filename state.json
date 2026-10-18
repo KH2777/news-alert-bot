@@ -124,15 +124,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-13T02:45:46+00:00",
-   "text": "I see so many comments from the Radical Left Morons and Lunatics that China and Russia are",
-   "topics": [
-    "Китай",
-    "Россия / Украина",
-    "Ближний Восток"
-   ]
-  },
-  {
    "t": "2026-10-13T15:56:25+00:00",
    "text": "Happy Birthday to the United States Navy! It is now 251 years of Victories, Old and New. W",
    "topics": [
@@ -204,12 +195,16 @@
    "topics": [
     "Нефть / энергетика"
    ]
+  },
+  {
+   "t": "2026-10-18T12:05:24+00:00",
+   "text": "Wow. Our Country was scammed, and we now have the proof. You have not heard the last of th",
+   "topics": [
+    "Россия / Украина"
+   ]
   }
  ],
  "truth_seen": [
-  "117376700640782000",
-  "117376705404850468",
-  "117376706134428638",
   "117376707058642062",
   "117376709448414660",
   "117376710253781330",
@@ -506,6 +501,9 @@
   "117457346173487081",
   "117457347557850043",
   "117457348466973534",
-  "117457616533730418"
+  "117457616533730418",
+  "117461628770166051",
+  "117461819331327618",
+  "117461843705117717"
  ]
 }
