@@ -124,23 +124,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-13T16:04:08+00:00",
-   "text": "The Houthis are behaving very badly. I thought they learned their lesson a year ago when w",
-   "topics": [
-    "Нефть / энергетика",
-    "Ближний Восток",
-    "Экономика"
-   ]
-  },
-  {
-   "t": "2026-10-13T22:08:23+00:00",
-   "text": "Dave Bronson of Alaska begged me for my support and Endorsement, but I wouldn’t do it beca",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
    "t": "2026-10-13T22:51:56+00:00",
    "text": "Gregg Jarrett is fantastic — A MUST WATCH! President DONALD J. TRUMP\nGREGG JARRETT: Trump ",
    "topics": [
@@ -202,12 +185,23 @@
     "Экономика",
     "Указы / заявления"
    ]
+  },
+  {
+   "t": "2026-10-18T14:45:34+00:00",
+   "text": "To the Great People of Israel:\nBibi Netanyahu has been a Great Warrior Prime Minister, and",
+   "topics": [
+    "Ближний Восток"
+   ]
+  },
+  {
+   "t": "2026-10-18T15:02:37+00:00",
+   "text": "RT @realDonaldTrumpTo the Great People of Israel:\nBibi Netanyahu has been a Great Warrior ",
+   "topics": [
+    "Ближний Восток"
+   ]
   }
  ],
  "truth_seen": [
-  "117376710253781330",
-  "117376711131261545",
-  "117376854745686677",
   "117376855501150171",
   "117377066566644744",
   "117377072350009409",
@@ -504,6 +498,9 @@
   "117461819331327618",
   "117461843705117717",
   "117462292255470282",
-  "117462306089931035"
+  "117462306089931035",
+  "117462449149582042",
+  "117462515726539405",
+  "117462516183501342"
  ]
 }
