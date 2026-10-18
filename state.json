@@ -124,14 +124,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-13T15:56:25+00:00",
-   "text": "Happy Birthday to the United States Navy! It is now 251 years of Victories, Old and New. W",
-   "topics": [
-    "Ближний Восток",
-    "Отрасли"
-   ]
-  },
-  {
    "t": "2026-10-13T16:04:08+00:00",
    "text": "The Houthis are behaving very badly. I thought they learned their lesson a year ago when w",
    "topics": [
@@ -202,11 +194,17 @@
    "topics": [
     "Россия / Украина"
    ]
+  },
+  {
+   "t": "2026-10-18T14:09:11+00:00",
+   "text": "I am pleased to announce that the Department of the Interior, under the auspices of Secret",
+   "topics": [
+    "Экономика",
+    "Указы / заявления"
+   ]
   }
  ],
  "truth_seen": [
-  "117376707058642062",
-  "117376709448414660",
   "117376710253781330",
   "117376711131261545",
   "117376854745686677",
@@ -504,6 +502,8 @@
   "117457616533730418",
   "117461628770166051",
   "117461819331327618",
-  "117461843705117717"
+  "117461843705117717",
+  "117462292255470282",
+  "117462306089931035"
  ]
 }
