@@ -125,14 +125,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-14T04:17:30+00:00",
-   "text": "Massive Oil, Gas, and Mineral Exploration is getting ready to begin in our new and beautif",
-   "topics": [
-    "Нефть / энергетика",
-    "Геополитика / война"
-   ]
-  },
-  {
    "t": "2026-10-14T16:29:18+00:00",
    "text": "I was just in Alaska launching the largest Energy Infrastructure Project in Alaska History",
    "topics": [
@@ -202,13 +194,17 @@
     "Россия / Украина",
     "Ближний Восток"
    ]
+  },
+  {
+   "t": "2026-10-19T09:14:23+00:00",
+   "text": "Melania Trump makes history presiding over UN Security Council — remarking on Iran war dea",
+   "topics": [
+    "Геополитика / война",
+    "Ближний Восток"
+   ]
   }
  ],
  "truth_seen": [
-  "117378226674711107",
-  "117378383081064996",
-  "117379305275420977",
-  "117382603525777209",
   "117382611360859686",
   "117382611962645893",
   "117382613951699157",
@@ -504,6 +500,10 @@
   "117464781656394459",
   "117464867147953620",
   "117464943162220490",
-  "117465086077034849"
+  "117465086077034849",
+  "117466809182909023",
+  "117466841292482027",
+  "117467023218108167",
+  "117467191755462147"
  ]
 }
