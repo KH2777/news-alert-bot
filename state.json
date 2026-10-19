@@ -127,24 +127,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-14T16:29:18+00:00",
-   "text": "I was just in Alaska launching the largest Energy Infrastructure Project in Alaska History",
-   "topics": [
-    "Китай",
-    "Нефть / энергетика",
-    "Доллар / долг / бюджет"
-   ]
-  },
-  {
-   "t": "2026-10-14T16:39:39+00:00",
-   "text": "ANOTHER MASSIVE 21 BILLION DOLLAR INVESTMENT FOR AMERICA!\nToday, under my leadership, Glob",
-   "topics": [
-    "Тарифы / торговля",
-    "Китай",
-    "Доллар / долг / бюджет"
-   ]
-  },
-  {
    "t": "2026-10-15T04:56:13+00:00",
    "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117443139790546115Actual pictur",
    "topics": [
@@ -204,13 +186,23 @@
     "Геополитика / война",
     "Ближний Восток"
    ]
+  },
+  {
+   "t": "2026-10-19T19:05:16+00:00",
+   "text": "The Democrats gave us the Highest Inflation in History, and the Highest Prices to go with ",
+   "topics": [
+    "Экономика"
+   ]
+  },
+  {
+   "t": "2026-10-19T19:06:40+00:00",
+   "text": "New Mexico should immediately change its name to New America. We are not Mexico, we are th",
+   "topics": [
+    "Страны-партнёры"
+   ]
   }
  ],
  "truth_seen": [
-  "117383724226313929",
-  "117383725569653665",
-  "117383726338052034",
-  "117383727197989562",
   "117383728000348150",
   "117383732362183894",
   "117383733622630931",
@@ -506,6 +498,10 @@
   "117468926113371267",
   "117468927432881624",
   "117469027191542871",
-  "117469037934097385"
+  "117469037934097385",
+  "117469132662412438",
+  "117469138178317492",
+  "117469140644731762",
+  "117469511233475082"
  ]
 }
