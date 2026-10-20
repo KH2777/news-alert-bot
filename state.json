@@ -132,22 +132,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-20T01:01:24+00:00",
-   "text": "Less than two years ago, Radical Left Dumocrats handed us the DARK AGE of America, but we ",
-   "topics": [
-    "Тарифы / торговля",
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
-   "t": "2026-10-20T01:16:18+00:00",
-   "text": "The choice in this Election is very simple. You can vote for the Radical Left Dumocrat Com",
-   "topics": [
-    "Экономика"
-   ]
-  },
-  {
    "t": "2026-10-20T01:17:07+00:00",
    "text": "Thanks to a Republican Congress, I signed THE GREAT BIG BEAUTIFUL BILL, delivering THE LAR",
    "topics": [
@@ -206,16 +190,23 @@
    "topics": [
     "Указы / заявления"
    ]
+  },
+  {
+   "t": "2026-10-20T20:49:20+00:00",
+   "text": "Donald Trump signs executive order creating NIH task force as Melania unveils ‘new standar",
+   "topics": [
+    "Указы / заявления"
+   ]
+  },
+  {
+   "t": "2026-10-20T20:51:51+00:00",
+   "text": "Trump, First Lady Announce Actions Aimed at Improving Women's Health: breitbart.com/health",
+   "topics": [
+    "Указы / заявления"
+   ]
   }
  ],
  "truth_seen": [
-  "117412435306815143",
-  "117412623263536077",
-  "117412672479473994",
-  "117412899117853172",
-  "117413185767843476",
-  "117414533410378018",
-  "117415067155694882",
   "117415070931115419",
   "117415074068275147",
   "117415076555675844",
@@ -508,6 +499,13 @@
   "117471498052081961",
   "117473326095036573",
   "117473326850171330",
-  "117474337843871362"
+  "117474337843871362",
+  "117474900035235218",
+  "117474902194097867",
+  "117474904278478680",
+  "117474908315721936",
+  "117475200660141375",
+  "117475204189906597",
+  "117475214051532398"
  ]
 }
