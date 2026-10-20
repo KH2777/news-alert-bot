@@ -131,15 +131,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-20T00:38:36+00:00",
-   "text": "The last time the Radical Dumocrats had power, they gave us the Worst Inflation in America",
-   "topics": [
-    "Тарифы / торговля",
-    "Нефть / энергетика",
-    "Доллар / долг / бюджет"
-   ]
-  },
-  {
    "t": "2026-10-20T01:01:24+00:00",
    "text": "Less than two years ago, Radical Left Dumocrats handed us the DARK AGE of America, but we ",
    "topics": [
@@ -207,10 +198,16 @@
    "topics": [
     "Нефть / энергетика"
    ]
+  },
+  {
+   "t": "2026-10-20T17:09:01+00:00",
+   "text": "Because of my belief in the Republican Party, and all of our Policies and Principles, and ",
+   "topics": [
+    "Указы / заявления"
+   ]
   }
  ],
  "truth_seen": [
-  "117411241255928585",
   "117412435306815143",
   "117412623263536077",
   "117412672479473994",
@@ -509,6 +506,7 @@
   "117471494164657339",
   "117471498052081961",
   "117473326095036573",
-  "117473326850171330"
+  "117473326850171330",
+  "117474337843871362"
  ]
 }
