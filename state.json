@@ -132,36 +132,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-15T04:56:13+00:00",
-   "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117443139790546115Actual pictur",
-   "topics": [
-    "Геополитика / война",
-    "Доллар / долг / бюджет"
-   ]
-  },
-  {
-   "t": "2026-10-16T04:52:55+00:00",
-   "text": "James TalaFREAKO, who is running for U.S. Senate against the greatest Attorney General in ",
-   "topics": [
-    "Нефть / энергетика"
-   ]
-  },
-  {
-   "t": "2026-10-18T12:05:24+00:00",
-   "text": "Wow. Our Country was scammed, and we now have the proof. You have not heard the last of th",
-   "topics": [
-    "Россия / Украина"
-   ]
-  },
-  {
-   "t": "2026-10-18T14:09:11+00:00",
-   "text": "I am pleased to announce that the Department of the Interior, under the auspices of Secret",
-   "topics": [
-    "Экономика",
-    "Указы / заявления"
-   ]
-  },
-  {
    "t": "2026-10-18T14:45:34+00:00",
    "text": "To the Great People of Israel:\nBibi Netanyahu has been a Great Warrior Prime Minister, and",
    "topics": [
@@ -205,15 +175,40 @@
    "topics": [
     "Страны-партнёры"
    ]
+  },
+  {
+   "t": "2026-10-20T00:21:30+00:00",
+   "text": "If you want to see what is at stake in this Election, just look at what is happening in Fr",
+   "topics": [
+    "Геополитика / война",
+    "Ближний Восток"
+   ]
+  },
+  {
+   "t": "2026-10-20T00:22:40+00:00",
+   "text": "The Dumocrat Agenda is a plan to extinguish Western Civilization. They want to open the Bo",
+   "topics": [
+    "Геополитика / война"
+   ]
+  },
+  {
+   "t": "2026-10-20T00:38:01+00:00",
+   "text": "Senator Roger Marshall’s opponent, Adam Hamilton, is a Radical Left Phony who is pretendin",
+   "topics": [
+    "Указы / заявления"
+   ]
+  },
+  {
+   "t": "2026-10-20T00:38:36+00:00",
+   "text": "The last time the Radical Dumocrats had power, they gave us the Worst Inflation in America",
+   "topics": [
+    "Тарифы / торговля",
+    "Нефть / энергетика",
+    "Доллар / долг / бюджет"
+   ]
   }
  ],
  "truth_seen": [
-  "117383737641173276",
-  "117383739007489519",
-  "117383740615004316",
-  "117383742409715196",
-  "117383743484621823",
-  "117383744306306629",
   "117383854962700677",
   "117383899651030960",
   "117383902145126256",
@@ -507,6 +502,12 @@
   "117469664819644244",
   "117469732763891097",
   "117469733486272683",
-  "117469853201214681"
+  "117469853201214681",
+  "117470368203080253",
+  "117470376164503349",
+  "117470380723173497",
+  "117470395373605336",
+  "117470441097872597",
+  "117470443395506989"
  ]
 }
