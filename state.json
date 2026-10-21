@@ -137,22 +137,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-20T01:17:23+00:00",
-   "text": "To protect Family Farms, we ended the unfair Estate Tax, or Death Tax. My Administration a",
-   "topics": [
-    "Указы / заявления"
-   ]
-  },
-  {
-   "t": "2026-10-20T01:17:51+00:00",
-   "text": "Two weeks ago, I signed an Executive Order waiving the Off-Road requirement for Red-Dye Di",
-   "topics": [
-    "Геополитика / война",
-    "Ближний Восток",
-    "Экономика"
-   ]
-  },
-  {
    "t": "2026-10-20T01:18:02+00:00",
    "text": "Under my Most Favored Nation Agreements on Drug Prices, we went from paying the HIGHEST Dr",
    "topics": [
@@ -209,12 +193,24 @@
    "topics": [
     "Указы / заявления"
    ]
+  },
+  {
+   "t": "2026-10-21T10:37:32+00:00",
+   "text": "Stephen Hubbard, taken four years ago by Russia during the Biden Administration, was just ",
+   "topics": [
+    "Россия / Украина"
+   ]
+  },
+  {
+   "t": "2026-10-21T10:49:44+00:00",
+   "text": "Numerous people, who requested that sanctions be immediately imposed on Russia, have calle",
+   "topics": [
+    "Россия / Украина",
+    "Санкции"
+   ]
   }
  ],
  "truth_seen": [
-  "117416516229323591",
-  "117416527037598151",
-  "117416561047667860",
   "117416713825849501",
   "117417140250778882",
   "117418053695775945",
@@ -511,6 +507,9 @@
   "117476371905344581",
   "117476372995585848",
   "117476398692995492",
-  "117477279556215047"
+  "117477279556215047",
+  "117478460769539937",
+  "117478508731391744",
+  "117478544626833616"
  ]
 }
