@@ -138,14 +138,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-20T01:18:02+00:00",
-   "text": "Under my Most Favored Nation Agreements on Drug Prices, we went from paying the HIGHEST Dr",
-   "topics": [
-    "Экономика",
-    "Отрасли"
-   ]
-  },
-  {
    "t": "2026-10-20T01:18:24+00:00",
    "text": "Just today, I signed a Historic Executive Order on Women’s Health, supported by our incred",
    "topics": [
@@ -209,12 +201,16 @@
     "Россия / Украина",
     "Санкции"
    ]
+  },
+  {
+   "t": "2026-10-21T12:14:29+00:00",
+   "text": "Great news for the wealth and prosperity of the United Kingdom, and the wonderful region o",
+   "topics": [
+    "Нефть / энергетика"
+   ]
   }
  ],
  "truth_seen": [
-  "117416713825849501",
-  "117417140250778882",
-  "117418053695775945",
   "117418068661995353",
   "117418148236895862",
   "117419271924268127",
@@ -511,6 +507,9 @@
   "117477279556215047",
   "117478460769539937",
   "117478508731391744",
-  "117478544626833616"
+  "117478544626833616",
+  "117478575893014344",
+  "117478593489864840",
+  "117478842004893362"
  ]
 }
