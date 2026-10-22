@@ -143,13 +143,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-20T17:09:01+00:00",
-   "text": "Because of my belief in the Republican Party, and all of our Policies and Principles, and ",
-   "topics": [
-    "Указы / заявления"
-   ]
-  },
-  {
    "t": "2026-10-20T20:49:20+00:00",
    "text": "Donald Trump signs executive order creating NIH task force as Melania unveils ‘new standar",
    "topics": [
@@ -218,12 +211,16 @@
     "Геополитика / война",
     "Ближний Восток"
    ]
+  },
+  {
+   "t": "2026-10-22T18:38:23+00:00",
+   "text": "Vivek Ramaswamy put up a very powerful Ad about a mother saying that her daughter, Amy Act",
+   "topics": [
+    "Геополитика / война"
+   ]
   }
  ],
  "truth_seen": [
-  "117435782267938403",
-  "117435868809210676",
-  "117435878855345862",
   "117435892060051892",
   "117436046490491993",
   "117436047401681071",
@@ -520,6 +517,9 @@
   "117485231398355728",
   "117485314798987090",
   "117485317207546802",
-  "117485480701878421"
+  "117485480701878421",
+  "117485878480801847",
+  "117485881463015989",
+  "117486013862752010"
  ]
 }
