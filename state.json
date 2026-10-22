@@ -142,21 +142,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-20T01:19:49+00:00",
-   "text": "We achieved more in two years than any other presidency in the History of our Country, but",
-   "topics": [
-    "Доллар / долг / бюджет",
-    "Экономика"
-   ]
-  },
-  {
-   "t": "2026-10-20T01:21:14+00:00",
-   "text": "Roger Marshall is all that stands between the people of Kansas and Communists controlling ",
-   "topics": [
-    "Нефть / энергетика"
-   ]
-  },
-  {
    "t": "2026-10-20T17:09:01+00:00",
    "text": "Because of my belief in the Republican Party, and all of our Policies and Principles, and ",
    "topics": [
@@ -214,15 +199,27 @@
     "Отрасли",
     "Указы / заявления"
    ]
+  },
+  {
+   "t": "2026-10-22T15:40:36+00:00",
+   "text": "Iran is doing everything they can to drive up the price of Oil prior to the U.S. Midterm E",
+   "topics": [
+    "Нефть / энергетика",
+    "Геополитика / война",
+    "Ближний Восток"
+   ]
+  },
+  {
+   "t": "2026-10-22T15:41:13+00:00",
+   "text": "THE WALL STREET JOURNAL: “More Oil Is Now Coming Out of the Persian Gulf Than Before the I",
+   "topics": [
+    "Нефть / энергетика",
+    "Геополитика / война",
+    "Ближний Восток"
+   ]
   }
  ],
  "truth_seen": [
-  "117434416172660722",
-  "117434446535757477",
-  "117435176179992905",
-  "117435353994630003",
-  "117435356165640404",
-  "117435475991175132",
   "117435782267938403",
   "117435868809210676",
   "117435878855345862",
@@ -516,6 +513,12 @@
   "117485125160894590",
   "117485125846049246",
   "117485139748807928",
-  "117485141128793234"
+  "117485141128793234",
+  "117485228002980983",
+  "117485228824342638",
+  "117485231398355728",
+  "117485314798987090",
+  "117485317207546802",
+  "117485480701878421"
  ]
 }
