@@ -114,13 +114,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-20T21:08:11+00:00",
-   "text": "Melania Trump Announces White House Women’s Health Initiative: nytimes.com/2026/10/19/us/p",
-   "topics": [
-    "Указы / заявления"
-   ]
-  },
-  {
    "t": "2026-10-21T10:37:32+00:00",
    "text": "Stephen Hubbard, taken four years ago by Russia during the Biden Administration, was just ",
    "topics": [
@@ -189,13 +182,18 @@
    "topics": [
     "Экономика"
    ]
+  },
+  {
+   "t": "2026-10-25T04:42:43+00:00",
+   "text": "Obama was a grossly incompetent President! He paid off Iran with $Billions, and gave them ",
+   "topics": [
+    "Геополитика / война",
+    "Ближний Восток",
+    "Экономика"
+   ]
   }
  ],
  "truth_seen": [
-  "117462306089931035",
-  "117462449149582042",
-  "117462515726539405",
-  "117462516183501342",
   "117463131182046538",
   "117463319181671522",
   "117463320034402295",
@@ -491,6 +489,10 @@
   "117497314507062631",
   "117497314773980906",
   "117499009249391196",
-  "117499201912583975"
+  "117499201912583975",
+  "117499344293071820",
+  "117499362600085167",
+  "117499446707365145",
+  "117499714815544938"
  ]
 }
