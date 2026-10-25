@@ -109,14 +109,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-21T10:49:44+00:00",
-   "text": "Numerous people, who requested that sanctions be immediately imposed on Russia, have calle",
-   "topics": [
-    "Россия / Украина",
-    "Санкции"
-   ]
-  },
-  {
    "t": "2026-10-21T12:14:29+00:00",
    "text": "Great news for the wealth and prosperity of the United Kingdom, and the wonderful region o",
    "topics": [
@@ -186,10 +178,17 @@
    "topics": [
     "Страны-партнёры"
    ]
+  },
+  {
+   "t": "2026-10-25T17:29:30+00:00",
+   "text": "Heading to Michigan to fight a Jihadist Member of the Muslim Brotherhood — A man who shoul",
+   "topics": [
+    "Экономика",
+    "Отрасли"
+   ]
   }
  ],
  "truth_seen": [
-  "117464065930232379",
   "117464066672004379",
   "117464705630282037",
   "117464781656394459",
@@ -488,6 +487,7 @@
   "117500026912872650",
   "117501759696367397",
   "117502341995120080",
-  "117502572828225324"
+  "117502572828225324",
+  "117502729923088637"
  ]
 }
