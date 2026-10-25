@@ -107,13 +107,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-21T10:37:32+00:00",
-   "text": "Stephen Hubbard, taken four years ago by Russia during the Biden Administration, was just ",
-   "topics": [
-    "Россия / Украина"
-   ]
-  },
-  {
    "t": "2026-10-21T10:49:44+00:00",
    "text": "Numerous people, who requested that sanctions be immediately imposed on Russia, have calle",
    "topics": [
@@ -184,10 +177,16 @@
     "Ближний Восток",
     "Экономика"
    ]
+  },
+  {
+   "t": "2026-10-25T13:22:45+00:00",
+   "text": "Conservative Party wins in British Columbia for first time in almost 100 years: justthenew",
+   "topics": [
+    "Страны-партнёры"
+   ]
   }
  ],
  "truth_seen": [
-  "117463319181671522",
   "117463320034402295",
   "117463828588421761",
   "117464065930232379",
@@ -486,6 +485,7 @@
   "117499362600085167",
   "117499446707365145",
   "117499714815544938",
-  "117500026912872650"
+  "117500026912872650",
+  "117501759696367397"
  ]
 }
