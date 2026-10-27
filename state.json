@@ -107,22 +107,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-26T20:53:19+00:00",
-   "text": "It is my Great Honor to endorse America First Patriot, Casey Askar, who is running to repr",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
-   "t": "2026-10-26T20:53:44+00:00",
-   "text": "It is my Great Honor to endorse America First Patriot, Scott Singer, who is running to rep",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
    "t": "2026-10-26T20:54:05+00:00",
    "text": "It is my Great Honor to endorse America First Patriot Alex Mealer, who is running to repre",
    "topics": [
@@ -185,13 +169,23 @@
     "Геополитика / война",
     "Экономика"
    ]
+  },
+  {
+   "t": "2026-10-27T14:54:50+00:00",
+   "text": "Congratulations to Paul St-Pierre Plamondon on his WIN! President DONALD J. TRUMP\nSeparati",
+   "topics": [
+    "Страны-партнёры"
+   ]
+  },
+  {
+   "t": "2026-10-27T15:20:18+00:00",
+   "text": "BREAKING NEWS: Consumer Confidence is up 7.5%, an extremely big rise. Thank you! President",
+   "topics": [
+    "Указы / заявления"
+   ]
   }
  ],
  "truth_seen": [
-  "117471278326631542",
-  "117471280136066596",
-  "117471292631052381",
-  "117471306807375633",
   "117471308305608337",
   "117471316261088736",
   "117471344462712217",
@@ -487,6 +481,10 @@
   "117509177513886735",
   "117509081254744239",
   "117510783769373145",
-  "117512775101937441"
+  "117512775101937441",
+  "117513446395316214",
+  "117513546520520214",
+  "117513579089626559",
+  "117513587385090078"
  ]
 }
