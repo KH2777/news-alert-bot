@@ -118,14 +118,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-26T20:55:46+00:00",
-   "text": "Congressman Greg Murphy, M.D., is a Tremendous Champion for the incredible people of North",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
    "t": "2026-10-26T20:56:28+00:00",
    "text": "Congressman Clay Higgins is a MAGA Warrior who is doing a tremendous job representing the ",
    "topics": [
@@ -193,10 +185,16 @@
    "topics": [
     "Ближний Восток"
    ]
+  },
+  {
+   "t": "2026-10-28T05:25:21+00:00",
+   "text": "RT @jmclghlnStrong Majority backs @realDonaldTrump stopping Iran from getting Nukes newsma",
+   "topics": [
+    "Ближний Восток"
+   ]
   }
  ],
  "truth_seen": [
-  "117471474650381574",
   "117471491419200330",
   "117471494164657339",
   "117471498052081961",
@@ -495,6 +493,7 @@
   "117514539913557987",
   "117514549297530392",
   "117514552184642275",
-  "117516666252141562"
+  "117516666252141562",
+  "117516869410610885"
  ]
 }
