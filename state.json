@@ -118,14 +118,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-26T20:55:21+00:00",
-   "text": "It is my Great Honor to endorse Carlos De La Cruz, a fantastic America First Candidate run",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
    "t": "2026-10-26T20:55:46+00:00",
    "text": "Congressman Greg Murphy, M.D., is a Tremendous Champion for the incredible people of North",
    "topics": [
@@ -194,10 +186,16 @@
    "topics": [
     "Нефть / энергетика"
    ]
+  },
+  {
+   "t": "2026-10-28T04:33:41+00:00",
+   "text": "“When President Trump endorsed Bibi Netanyahu, the whole tide turned, and now, rather than",
+   "topics": [
+    "Ближний Восток"
+   ]
   }
  ],
  "truth_seen": [
-  "117471471550327950",
   "117471474650381574",
   "117471491419200330",
   "117471494164657339",
@@ -496,6 +494,7 @@
   "117514429740031650",
   "117514539913557987",
   "117514549297530392",
-  "117514552184642275"
+  "117514552184642275",
+  "117516666252141562"
  ]
 }
