@@ -139,22 +139,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-26T20:56:28+00:00",
-   "text": "Congressman Clay Higgins is a MAGA Warrior who is doing a tremendous job representing the ",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
-   "t": "2026-10-26T22:10:52+00:00",
-   "text": "The Trump Administration is proud to announce a 250 MILLION DOLLAR PLUS initiative to RECR",
-   "topics": [
-    "Доллар / долг / бюджет",
-    "Указы / заявления"
-   ]
-  },
-  {
    "t": "2026-10-26T22:39:15+00:00",
    "text": "Congressman Mike Johnson is a Great Man, an outstanding Representative for the wonderful p",
    "topics": [
@@ -213,16 +197,26 @@
    "topics": [
     "Ближний Восток"
    ]
+  },
+  {
+   "t": "2026-10-28T21:37:15+00:00",
+   "text": "TO THE GREAT PEOPLE OF ALASKA, GET OUT AND VOTE FOR DAN S. SULLIVAN!\n \nSenator Dan S. Sull",
+   "topics": [
+    "Геополитика / война",
+    "Экономика"
+   ]
+  },
+  {
+   "t": "2026-10-28T22:02:20+00:00",
+   "text": "I’m going to be doing a major TeleRally for Julia Letlow, who is running for the U.S. Sena",
+   "topics": [
+    "Нефть / энергетика",
+    "Геополитика / война",
+    "Экономика"
+   ]
   }
  ],
  "truth_seen": [
-  "117474900035235218",
-  "117474902194097867",
-  "117474904278478680",
-  "117474908315721936",
-  "117475200660141375",
-  "117475204189906597",
-  "117475214051532398",
   "117475275197816762",
   "117475278291502005",
   "117475293829837494",
@@ -515,6 +509,13 @@
   "117520108599434597",
   "117520154668933347",
   "117520175358921687",
-  "117520178701808601"
+  "117520178701808601",
+  "117520578001844805",
+  "117520691083964719",
+  "117520691710779974",
+  "117520769528895376",
+  "117520787444181449",
+  "117520789719949115",
+  "117520811287903843"
  ]
 }
