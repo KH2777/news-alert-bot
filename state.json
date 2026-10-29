@@ -148,22 +148,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-29T19:14:44+00:00",
-   "text": "Congressman Ryan Mackenzie is an America First Patriot, who is doing an incredible job rep",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
-   "t": "2026-10-29T19:15:11+00:00",
-   "text": "Congressman Rob Bresnahan is a terrific Representative of Pennsylvania’s 8th Congressional",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
    "t": "2026-10-29T19:15:42+00:00",
    "text": "Congressman Lloyd Smucker is a terrific Representative for the wonderful people of Pennsyl",
    "topics": [
@@ -223,15 +207,24 @@
    "topics": [
     "Россия / Украина"
    ]
+  },
+  {
+   "t": "2026-10-29T22:41:45+00:00",
+   "text": "Aaron Flint will be a tremendous Congressman for the amazing people of Montana’s 1st Congr",
+   "topics": [
+    "Геополитика / война",
+    "Экономика"
+   ]
+  },
+  {
+   "t": "2026-10-29T22:42:09+00:00",
+   "text": "Congressman Troy Downing is doing a truly fantastic job representing the incredible people",
+   "topics": [
+    "Геополитика / война"
+   ]
   }
  ],
  "truth_seen": [
-  "117482512081231252",
-  "117482799443891457",
-  "117484043744815606",
-  "117484047984542655",
-  "117484048745552518",
-  "117484618730589847",
   "117484620681663989",
   "117484613863994238",
   "117484616158082454",
@@ -525,6 +518,12 @@
   "117526145974045570",
   "117526178919539647",
   "117526181339407610",
-  "117526183658403524"
+  "117526183658403524",
+  "117526232618166329",
+  "117526601708258656",
+  "117526604215320335",
+  "117526605975151903",
+  "117526606999074581",
+  "117526608599642271"
  ]
 }
