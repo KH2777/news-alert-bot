@@ -148,37 +148,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-27T14:54:50+00:00",
-   "text": "Congratulations to Paul St-Pierre Plamondon on his WIN! President DONALD J. TRUMP\nSeparati",
-   "topics": [
-    "Страны-партнёры"
-   ]
-  },
-  {
-   "t": "2026-10-27T15:20:18+00:00",
-   "text": "BREAKING NEWS: Consumer Confidence is up 7.5%, an extremely big rise. Thank you! President",
-   "topics": [
-    "Указы / заявления"
-   ]
-  },
-  {
-   "t": "2026-10-27T16:31:49+00:00",
-   "text": "Congressman Scott Perry is a tremendous Representative for the Great People of Pennsylvani",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
-   "t": "2026-10-27T17:04:10+00:00",
-   "text": "I am traveling to Corpus Christi, Texas to a PACKED Rally, where the United States of Amer",
-   "topics": [
-    "Нефть / энергетика",
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
    "t": "2026-10-27T17:08:04+00:00",
    "text": "Get rid of the guns, get rid of the Oil, get rid of the meat, but Transgender Mutilization",
    "topics": [
@@ -223,21 +192,40 @@
     "Геополитика / война",
     "Экономика"
    ]
+  },
+  {
+   "t": "2026-10-29T18:52:48+00:00",
+   "text": "Today I am pleased to report, in Breaking News this morning, that the U.S. Economy is BOOM",
+   "topics": [
+    "Экономика",
+    "Указы / заявления"
+   ]
+  },
+  {
+   "t": "2026-10-29T18:55:07+00:00",
+   "text": "It is my Great Honor to endorse America First Patriot, David Stumbo, who is running to be ",
+   "topics": [
+    "Геополитика / война"
+   ]
+  },
+  {
+   "t": "2026-10-29T18:57:07+00:00",
+   "text": "RT @realDonaldTrumpCongressman Dan Meuser is an America First Patriot who is doing an incr",
+   "topics": [
+    "Геополитика / война",
+    "Экономика"
+   ]
+  },
+  {
+   "t": "2026-10-29T19:05:30+00:00",
+   "text": "Congressman Scott Perry is a tremendous Representative for the Great People of Pennsylvani",
+   "topics": [
+    "Геополитика / война",
+    "Экономика"
+   ]
   }
  ],
  "truth_seen": [
-  "117479401880051412",
-  "117479402753999437",
-  "117479403384414491",
-  "117479404058364292",
-  "117479422656960213",
-  "117479427326984993",
-  "117479428956407249",
-  "117479429782667061",
-  "117480043201176772",
-  "117480043339306684",
-  "117480046790001681",
-  "117480841773137630",
   "117482101977092418",
   "117482195414283532",
   "117482196337261627",
@@ -525,6 +513,18 @@
   "117525253098313435",
   "117525264716938628",
   "117525270880780480",
-  "117525273514465379"
+  "117525273514465379",
+  "117525311655512373",
+  "117525358635690538",
+  "117525359134298486",
+  "117525365644162218",
+  "117525381204092010",
+  "117525706731349400",
+  "117525707348152529",
+  "117525708145400474",
+  "117525708513449313",
+  "117525715840384199",
+  "117525723707964253",
+  "117525756697578269"
  ]
 }
