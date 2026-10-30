@@ -160,14 +160,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-29T19:15:42+00:00",
-   "text": "Congressman Lloyd Smucker is a terrific Representative for the wonderful people of Pennsyl",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
    "t": "2026-10-29T19:16:06+00:00",
    "text": "Congressman John Joyce is a fantastic Champion for Pennsylvania’s 13th Congressional Distr",
    "topics": [
@@ -234,10 +226,16 @@
    "topics": [
     "Геополитика / война"
    ]
+  },
+  {
+   "t": "2026-10-30T02:12:03+00:00",
+   "text": "GREGG JARRETT: Trump was framed by the Russia collusion hoax. Now the whole story is expos",
+   "topics": [
+    "Россия / Украина"
+   ]
   }
  ],
  "truth_seen": [
-  "117484620681663989",
   "117484613863994238",
   "117484616158082454",
   "117484624470584315",
@@ -536,6 +534,7 @@
   "117526604215320335",
   "117526605975151903",
   "117526606999074581",
-  "117526608599642271"
+  "117526608599642271",
+  "117527433918621123"
  ]
 }
