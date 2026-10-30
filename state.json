@@ -160,22 +160,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-29T19:16:06+00:00",
-   "text": "Congressman John Joyce is a fantastic Champion for Pennsylvania’s 13th Congressional Distr",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
-   "t": "2026-10-29T19:16:34+00:00",
-   "text": "Congressman Guy Reschenthaler is doing an incredible job representing Pennsylvania’s 14th ",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
    "t": "2026-10-29T19:17:01+00:00",
    "text": "Congressman Glenn “GT” Thompson is a Tremendous Champion for Pennsylvania’s 15th Congressi",
    "topics": [
@@ -233,15 +217,25 @@
    "topics": [
     "Россия / Украина"
    ]
+  },
+  {
+   "t": "2026-10-30T09:39:08+00:00",
+   "text": "RT @marklevinshowTHE DEMOCRAT PARTY AND THEIR MEDIA ARE LYING ABOUT OUR ECONOMY AND MUCH M",
+   "topics": [
+    "Тарифы / торговля",
+    "Нефть / энергетика",
+    "Доллар / долг / бюджет"
+   ]
+  },
+  {
+   "t": "2026-10-30T10:30:46+00:00",
+   "text": "INFLATION IS WAY DOWN UNDER “TRUMP.” INCOME FOR PEOPLE & COMPANIES IS WAY UP! The Golden A",
+   "topics": [
+    "Экономика"
+   ]
   }
  ],
  "truth_seen": [
-  "117484613863994238",
-  "117484616158082454",
-  "117484624470584315",
-  "117484627270559441",
-  "117484629450934515",
-  "117484631365361174",
   "117484735949973985",
   "117484741288465425",
   "117484742039933383",
@@ -535,6 +529,12 @@
   "117526605975151903",
   "117526606999074581",
   "117526608599642271",
-  "117527433918621123"
+  "117527433918621123",
+  "117529171135970725",
+  "117529171874638931",
+  "117529183120003107",
+  "117529183862932823",
+  "117529191919987147",
+  "117529394978444089"
  ]
 }
