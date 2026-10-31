@@ -152,52 +152,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-10-31T18:25:45+00:00",
-   "text": "Warren Davidson is a fantastic Representative for the Great People of Ohio's 8th Congressi",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
-   "t": "2026-10-31T18:25:57+00:00",
-   "text": "Congressman Max Miller is a fantastic Champion for the Great People of Ohio's 7th Congress",
-   "topics": [
-    "Геополитика / война"
-   ]
-  },
-  {
-   "t": "2026-10-31T18:26:06+00:00",
-   "text": "Congressman Mike Rulli is an America First Patriot who is doing a fantastic job representi",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
-   "t": "2026-10-31T18:26:16+00:00",
-   "text": "Congressman Bob Latta is a Tremendous Champion for Ohio's 5th Congressional District!\n \nA ",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
-   "t": "2026-10-31T18:26:26+00:00",
-   "text": "Congressman Jim Jordan is an America First Patriot who is doing an incredible job represen",
-   "topics": [
-    "Экономика"
-   ]
-  },
-  {
-   "t": "2026-10-31T18:26:35+00:00",
-   "text": "Congressman Dave Taylor is doing an incredible job representing the wonderful people of Oh",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
    "t": "2026-10-31T18:26:44+00:00",
    "text": "It is my Great Honor to endorse America First Patriot, Eric Conroy, who is running to repr",
    "topics": [
@@ -227,21 +181,54 @@
     "Геополитика / война",
     "Экономика"
    ]
+  },
+  {
+   "t": "2026-10-31T18:25:26+00:00",
+   "text": "Congressman Mike Turner is doing a truly fantastic job representing the wonderful people o",
+   "topics": [
+    "Геополитика / война"
+   ]
+  },
+  {
+   "t": "2026-10-31T18:25:36+00:00",
+   "text": "It is my Great Honor to endorse America First Patriot, Derek Merrin, who is running to rep",
+   "topics": [
+    "Геополитика / война",
+    "Экономика"
+   ]
+  },
+  {
+   "t": "2026-10-31T19:22:15+00:00",
+   "text": "Florida Attorney General James Uthmeier is doing a GREAT job for the Sunshine State, which",
+   "topics": [
+    "Экономика"
+   ]
+  },
+  {
+   "t": "2026-10-31T19:22:24+00:00",
+   "text": "It is my Great Honor to endorse America First Congressman, Byron Donalds, who is running f",
+   "topics": [
+    "Геополитика / война"
+   ]
+  },
+  {
+   "t": "2026-10-31T19:22:40+00:00",
+   "text": "Senator Ashley Moody is doing a tremendous job representing the incredible people of Flori",
+   "topics": [
+    "Геополитика / война",
+    "Экономика"
+   ]
+  },
+  {
+   "t": "2026-10-31T19:49:50+00:00",
+   "text": "Congresswoman Claudia Tenney is a Fantastic Advocate for the Wonderful People of New York'",
+   "topics": [
+    "Геополитика / война",
+    "Экономика"
+   ]
   }
  ],
  "truth_seen": [
-  "117501759696367397",
-  "117502341995120080",
-  "117502572828225324",
-  "117502729923088637",
-  "117504022227510179",
-  "117504135188044166",
-  "117504177990449108",
-  "117504178504366445",
-  "117504180930398441",
-  "117504261273100838",
-  "117504266048722465",
-  "117504330043287268",
   "117504331075420942",
   "117504332756417928",
   "117504732598348445",
@@ -529,6 +516,18 @@
   "117536931163560869",
   "117536932223796834",
   "117536936573653701",
-  "117536940868452472"
+  "117536940868452472",
+  "117536923739685502",
+  "117536924395377337",
+  "117537147157441096",
+  "117537147729168099",
+  "117537148773878750",
+  "117537149496244852",
+  "117537152994154582",
+  "117537171434841841",
+  "117537190493759278",
+  "117537191170456651",
+  "117537191689163472",
+  "117537255606142938"
  ]
 }
