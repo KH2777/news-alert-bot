@@ -150,117 +150,87 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-01T15:21:37+00:00",
-   "text": "Congressman Tracey Mann is an incredible Representative for the wonderful people of Kansas",
+   "t": "2026-11-01T19:26:21+00:00",
+   "text": "Congressman Pat Fallon is a fantastic Representative for the wonderful People of Texas’ 4t",
+   "topics": [
+    "Геополитика / война",
+    "Экономика"
+   ]
+  },
+  {
+   "t": "2026-11-01T19:26:32+00:00",
+   "text": "Congressman Keith Self is a Tremendous Advocate for the Great People of Texas’ 3rd Congres",
    "topics": [
     "Геополитика / война"
    ]
   },
   {
-   "t": "2026-11-01T15:22:24+00:00",
-   "text": "It is my Great Honor to endorse Ty Masterson, a fantastic Candidate running to be the next",
+   "t": "2026-11-01T19:26:49+00:00",
+   "text": "It is my Great Honor to endorse MAGA Warrior, Steve Toth, who is running to represent the ",
    "topics": [
     "Геополитика / война",
     "Экономика"
    ]
   },
   {
-   "t": "2026-11-01T15:23:15+00:00",
-   "text": "Senator Roger Marshall is one of the Best Senators in the United States of America. He lov",
+   "t": "2026-11-01T19:26:59+00:00",
+   "text": "Congressman Nathaniel Moran is doing a fantastic job representing the Great People of Texa",
+   "topics": [
+    "Геополитика / война",
+    "Экономика"
+   ]
+  },
+  {
+   "t": "2026-11-01T19:27:10+00:00",
+   "text": "Dr. Dawn Buckingham is the strong and highly popular Land Commissioner for Texas, a place ",
    "topics": [
     "Нефть / энергетика",
-    "Доллар / долг / бюджет",
     "Экономика"
    ]
   },
   {
-   "t": "2026-11-01T15:47:49+00:00",
-   "text": "It is my Great Honor to endorse Chris McGowan, a fantastic Candidate running to be the nex",
+   "t": "2026-11-01T19:27:19+00:00",
+   "text": "Don Huffines is a MAGA Warrior — He has been with me from the very beginning, and is runni",
    "topics": [
     "Геополитика / война",
     "Экономика"
    ]
   },
   {
-   "t": "2026-11-01T15:48:02+00:00",
-   "text": "Congressman Zach Nunn is a fantastic Representative for the Great People of Iowa's 3rd Con",
+   "t": "2026-11-01T19:27:35+00:00",
+   "text": "It is my Great Honor to endorse “MAGA” Mayes Middleton, who is running to be the next Atto",
+   "topics": [
+    "Нефть / энергетика",
+    "Геополитика / война"
+   ]
+  },
+  {
+   "t": "2026-11-01T19:27:47+00:00",
+   "text": "I am proud to once again endorse Texas Lieutenant Governor, Dan Patrick, for Re-Election!\n",
    "topics": [
     "Геополитика / война",
     "Экономика"
    ]
   },
   {
-   "t": "2026-11-01T15:48:14+00:00",
-   "text": "It is my Great Honor to endorse MAGA Patriot, Joe Mitchell, who is running to represent th",
+   "t": "2026-11-01T19:27:57+00:00",
+   "text": "Greg Abbott is the strong and highly respected Governor of Texas, a State I love and WON B",
    "topics": [
     "Геополитика / война",
     "Экономика"
    ]
   },
   {
-   "t": "2026-11-01T15:48:24+00:00",
-   "text": "Congresswoman Mariannette Miller-Meeks is an incredibly strong advocate for the Great Peop",
+   "t": "2026-11-01T19:28:09+00:00",
+   "text": "It is my Great Honor to endorse the Highly Respected Attorney General of Texas, Ken Paxton",
    "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
-   "t": "2026-11-01T15:48:33+00:00",
-   "text": "Brenna Bird has been a tremendous Attorney General of Iowa, a place I love and WON BIG in ",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
-   "t": "2026-11-01T15:48:43+00:00",
-   "text": "It is my Great Honor to endorse America First Patriot, Zach Lahn, a tremendous Candidate r",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
-   "t": "2026-11-01T15:48:53+00:00",
-   "text": "Congresswoman Ashley Hinson is running for the United States Senate in Iowa, a State I lov",
-   "topics": [
+    "Нефть / энергетика",
     "Геополитика / война",
     "Экономика"
    ]
   }
  ],
  "truth_seen": [
-  "117520108599434597",
-  "117520154668933347",
-  "117520175358921687",
-  "117520178701808601",
-  "117520578001844805",
-  "117520691083964719",
-  "117520691710779974",
-  "117520769528895376",
-  "117520787444181449",
-  "117520789719949115",
-  "117520811287903843",
-  "117521889411299184",
-  "117521892279559312",
-  "117521895212942057",
-  "117523928356184918",
-  "117523928716548011",
-  "117523929787664257",
-  "117523934218890356",
-  "117524036771625091",
-  "117524674249671299",
-  "117524676590414089",
-  "117525088652931553",
-  "117525185794939859",
-  "117525209425440097",
-  "117525209478143119",
-  "117525211152165520",
-  "117525239970226458",
-  "117525241684892239",
-  "117525243080324771",
-  "117525253098313435",
   "117525264716938628",
   "117525270880780480",
   "117525273514465379",
@@ -530,6 +500,36 @@
   "117542377492851121",
   "117542635687363113",
   "117542639036452664",
-  "117542669978421205"
+  "117542669978421205",
+  "117542719988886194",
+  "117542735806062008",
+  "117542736509174199",
+  "117542737147309219",
+  "117542737699149189",
+  "117542738281356865",
+  "117542802183019946",
+  "117542802931196989",
+  "117542813847321210",
+  "117542821002881416",
+  "117542821674954692",
+  "117542822587044108",
+  "117542823304368768",
+  "117542823928871383",
+  "117542824877845816",
+  "117542825596529553",
+  "117542826301949797",
+  "117542827427827682",
+  "117542828067511679",
+  "117542828779415652",
+  "117542829364549863",
+  "117542830409841130",
+  "117542831198371222",
+  "117542831858109940",
+  "117542832649607144",
+  "117542836089265376",
+  "117542836979977717",
+  "117542869038466801",
+  "117542869270637596",
+  "117542869626398603"
  ]
 }
