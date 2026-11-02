@@ -148,45 +148,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-02T16:38:41+00:00",
-   "text": "Congressman David Rouzer is a terrific Representative for the incredible people of North C",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
-   "t": "2026-11-02T16:38:50+00:00",
-   "text": "Congressman Addison McDowell is an America First Patriot, who is doing a fantastic job rep",
-   "topics": [
-    "Геополитика / война"
-   ]
-  },
-  {
-   "t": "2026-11-02T16:38:58+00:00",
-   "text": "Congresswoman Virginia Foxx is doing a tremendous job fighting for the people of North Car",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
-   "t": "2026-11-02T16:39:08+00:00",
-   "text": "Congressman Greg Murphy, M.D., is a Tremendous Champion for the incredible people of North",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
-   "t": "2026-11-02T16:39:17+00:00",
-   "text": "It is my Great Honor to endorse Colonel Laurie Buckhout, who is running to represent the i",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
    "t": "2026-11-02T16:39:29+00:00",
    "text": "It is my Great Honor to endorse America First Patriot, Michael Whatley, who is running for",
    "topics": [
@@ -225,17 +186,49 @@
     "Геополитика / война",
     "Экономика"
    ]
+  },
+  {
+   "t": "2026-11-02T20:25:11+00:00",
+   "text": "Congressman Russell Fry is an America First Patriot, who is doing an incredible job repres",
+   "topics": [
+    "Геополитика / война",
+    "Экономика"
+   ]
+  },
+  {
+   "t": "2026-11-02T20:27:00+00:00",
+   "text": "Congressman Joe Wilson, who has been with us from the very beginning, is a Tremendous Cham",
+   "topics": [
+    "Геополитика / война",
+    "Экономика"
+   ]
+  },
+  {
+   "t": "2026-11-02T20:27:15+00:00",
+   "text": "It is my Great Honor to endorse America First Patriot and Highly Respected Jenny Costa Hon",
+   "topics": [
+    "Геополитика / война",
+    "Экономика"
+   ]
+  },
+  {
+   "t": "2026-11-02T20:27:35+00:00",
+   "text": "Highly Respected MAGA Warrior, Cody Simpson, is running for Commissioner of Agriculture in",
+   "topics": [
+    "Геополитика / война",
+    "Экономика"
+   ]
+  },
+  {
+   "t": "2026-11-02T20:27:48+00:00",
+   "text": "It is my Great Honor to endorse your current Attorney General, Alan Wilson, who is running",
+   "topics": [
+    "Геополитика / война",
+    "Экономика"
+   ]
   }
  ],
  "truth_seen": [
-  "117531905350627450",
-  "117531906499204194",
-  "117531908401047469",
-  "117531909275165087",
-  "117531920826336994",
-  "117531932013305541",
-  "117531933638600993",
-  "117531965901848778",
   "117531976551681094",
   "117531976852809081",
   "117532164192427112",
@@ -527,6 +520,14 @@
   "117547825277059014",
   "117547826178101076",
   "117547971150080999",
-  "117547972037646311"
+  "117547972037646311",
+  "117548704572446958",
+  "117548719266862471",
+  "117548726413357011",
+  "117548727340768491",
+  "117548728664861707",
+  "117548729505121580",
+  "117548730385164044",
+  "117548731761734326"
  ]
 }
