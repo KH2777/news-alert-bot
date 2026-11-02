@@ -149,117 +149,86 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-01T19:26:21+00:00",
-   "text": "Congressman Pat Fallon is a fantastic Representative for the wonderful People of Texas’ 4t",
+   "t": "2026-11-02T15:59:56+00:00",
+   "text": "Congressman Brad Finstad is a tremendous Representative of Minnesota’s 1st Congressional D",
    "topics": [
     "Геополитика / война",
     "Экономика"
    ]
   },
   {
-   "t": "2026-11-01T19:26:32+00:00",
-   "text": "Congressman Keith Self is a Tremendous Advocate for the Great People of Texas’ 3rd Congres",
+   "t": "2026-11-02T16:02:07+00:00",
+   "text": "Congressman Tom Kean is a Great Representative for the People of New Jersey's 7th Congress",
+   "topics": [
+    "Геополитика / война",
+    "Экономика"
+   ]
+  },
+  {
+   "t": "2026-11-02T16:38:19+00:00",
+   "text": "Richard Hudson is a Great Man, and TREMENDOUS Congressman, who is doing an outstanding job",
+   "topics": [
+    "Геополитика / война",
+    "Экономика"
+   ]
+  },
+  {
+   "t": "2026-11-02T16:38:32+00:00",
+   "text": "Congressman Mark Harris is a terrific Representative for the incredible people of North Ca",
+   "topics": [
+    "Геополитика / война",
+    "Экономика"
+   ]
+  },
+  {
+   "t": "2026-11-02T16:38:41+00:00",
+   "text": "Congressman David Rouzer is a terrific Representative for the incredible people of North C",
+   "topics": [
+    "Геополитика / война",
+    "Экономика"
+   ]
+  },
+  {
+   "t": "2026-11-02T16:38:50+00:00",
+   "text": "Congressman Addison McDowell is an America First Patriot, who is doing a fantastic job rep",
    "topics": [
     "Геополитика / война"
    ]
   },
   {
-   "t": "2026-11-01T19:26:49+00:00",
-   "text": "It is my Great Honor to endorse MAGA Warrior, Steve Toth, who is running to represent the ",
+   "t": "2026-11-02T16:38:58+00:00",
+   "text": "Congresswoman Virginia Foxx is doing a tremendous job fighting for the people of North Car",
    "topics": [
     "Геополитика / война",
     "Экономика"
    ]
   },
   {
-   "t": "2026-11-01T19:26:59+00:00",
-   "text": "Congressman Nathaniel Moran is doing a fantastic job representing the Great People of Texa",
+   "t": "2026-11-02T16:39:08+00:00",
+   "text": "Congressman Greg Murphy, M.D., is a Tremendous Champion for the incredible people of North",
    "topics": [
     "Геополитика / война",
     "Экономика"
    ]
   },
   {
-   "t": "2026-11-01T19:27:10+00:00",
-   "text": "Dr. Dawn Buckingham is the strong and highly popular Land Commissioner for Texas, a place ",
-   "topics": [
-    "Нефть / энергетика",
-    "Экономика"
-   ]
-  },
-  {
-   "t": "2026-11-01T19:27:19+00:00",
-   "text": "Don Huffines is a MAGA Warrior — He has been with me from the very beginning, and is runni",
+   "t": "2026-11-02T16:39:17+00:00",
+   "text": "It is my Great Honor to endorse Colonel Laurie Buckhout, who is running to represent the i",
    "topics": [
     "Геополитика / война",
     "Экономика"
    ]
   },
   {
-   "t": "2026-11-01T19:27:35+00:00",
-   "text": "It is my Great Honor to endorse “MAGA” Mayes Middleton, who is running to be the next Atto",
+   "t": "2026-11-02T16:39:29+00:00",
+   "text": "It is my Great Honor to endorse America First Patriot, Michael Whatley, who is running for",
    "topics": [
-    "Нефть / энергетика",
-    "Геополитика / война"
-   ]
-  },
-  {
-   "t": "2026-11-01T19:27:47+00:00",
-   "text": "I am proud to once again endorse Texas Lieutenant Governor, Dan Patrick, for Re-Election!\n",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
-   "t": "2026-11-01T19:27:57+00:00",
-   "text": "Greg Abbott is the strong and highly respected Governor of Texas, a State I love and WON B",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
-   "t": "2026-11-01T19:28:09+00:00",
-   "text": "It is my Great Honor to endorse the Highly Respected Attorney General of Texas, Ken Paxton",
-   "topics": [
-    "Нефть / энергетика",
     "Геополитика / война",
     "Экономика"
    ]
   }
  ],
  "truth_seen": [
-  "117525756697578269",
-  "117525792951954331",
-  "117525794771199763",
-  "117525796755388768",
-  "117525798353944575",
-  "117525800206914059",
-  "117525801983876789",
-  "117525804009701874",
-  "117526140868475197",
-  "117526145974045570",
-  "117526178919539647",
-  "117526181339407610",
-  "117526183658403524",
-  "117526232618166329",
-  "117526601708258656",
-  "117526604215320335",
-  "117526605975151903",
-  "117526606999074581",
-  "117526608599642271",
-  "117527433918621123",
-  "117529171135970725",
-  "117529171874638931",
-  "117529183120003107",
-  "117529183862932823",
-  "117529191919987147",
-  "117529394978444089",
-  "117529570134101741",
-  "117529608108051260",
-  "117529609631368783",
-  "117529610420067199",
   "117529611252882085",
   "117529617188189235",
   "117529618350160774",
@@ -529,6 +498,36 @@
   "117543867658627858",
   "117544455342530109",
   "117545513926612127",
-  "117545523777020082"
+  "117545523777020082",
+  "117547629573153967",
+  "117547657068653147",
+  "117547658160195115",
+  "117547658989921148",
+  "117547659752949987",
+  "117547660511099420",
+  "117547661382993711",
+  "117547662543302543",
+  "117547664848381013",
+  "117547666413135797",
+  "117547667293370809",
+  "117547667970125401",
+  "117547668689168982",
+  "117547669491384494",
+  "117547670199971157",
+  "117547672382503691",
+  "117547676252947847",
+  "117547684834396397",
+  "117547688484004048",
+  "117547821058085871",
+  "117547827194666543",
+  "117547828027910491",
+  "117547828588967534",
+  "117547829193865644",
+  "117547829739457946",
+  "117547830362234374",
+  "117547830953791977",
+  "117547831732392557",
+  "117547834243669741",
+  "117547834763075109"
  ]
 }
