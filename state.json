@@ -149,38 +149,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-02T15:59:56+00:00",
-   "text": "Congressman Brad Finstad is a tremendous Representative of Minnesota’s 1st Congressional D",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
-   "t": "2026-11-02T16:02:07+00:00",
-   "text": "Congressman Tom Kean is a Great Representative for the People of New Jersey's 7th Congress",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
-   "t": "2026-11-02T16:38:19+00:00",
-   "text": "Richard Hudson is a Great Man, and TREMENDOUS Congressman, who is doing an outstanding job",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
-   "t": "2026-11-02T16:38:32+00:00",
-   "text": "Congressman Mark Harris is a terrific Representative for the incredible people of North Ca",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
    "t": "2026-11-02T16:38:41+00:00",
    "text": "Congressman David Rouzer is a terrific Representative for the incredible people of North C",
    "topics": [
@@ -226,15 +194,41 @@
     "Геополитика / война",
     "Экономика"
    ]
+  },
+  {
+   "t": "2026-11-02T16:37:21+00:00",
+   "text": "Congressman Tim Moore is a Tremendous Champion for North Carolina's 14th Congressional Dis",
+   "topics": [
+    "Геополитика / война",
+    "Экономика"
+   ]
+  },
+  {
+   "t": "2026-11-02T16:37:37+00:00",
+   "text": "Congressman Brad Knott is a terrific Representative for the incredible people of North Car",
+   "topics": [
+    "Геополитика / война",
+    "Экономика"
+   ]
+  },
+  {
+   "t": "2026-11-02T16:37:50+00:00",
+   "text": "It is my Great Honor to endorse America First Patriot, Jennifer Balkcom, who is running to",
+   "topics": [
+    "Геополитика / война",
+    "Экономика"
+   ]
+  },
+  {
+   "t": "2026-11-02T16:38:04+00:00",
+   "text": "Pat Harrigan is a tremendous Representative for the Great People of North Carolina's 10th ",
+   "topics": [
+    "Геополитика / война",
+    "Экономика"
+   ]
   }
  ],
  "truth_seen": [
-  "117529611252882085",
-  "117529617188189235",
-  "117529618350160774",
-  "117529619259512950",
-  "117529620076918108",
-  "117529624881658729",
   "117531905350627450",
   "117531906499204194",
   "117531908401047469",
@@ -528,6 +522,12 @@
   "117547830953791977",
   "117547831732392557",
   "117547834243669741",
-  "117547834763075109"
+  "117547834763075109",
+  "117547823377997196",
+  "117547824382377816",
+  "117547825277059014",
+  "117547826178101076",
+  "117547971150080999",
+  "117547972037646311"
  ]
 }
