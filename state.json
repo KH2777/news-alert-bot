@@ -151,14 +151,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-03T13:17:17+00:00",
-   "text": "It is my Great Honor to endorse “MAGA” Mayes Middleton, who is running to be the next Atto",
-   "topics": [
-    "Нефть / энергетика",
-    "Геополитика / война"
-   ]
-  },
-  {
    "t": "2026-11-03T13:17:31+00:00",
    "text": "I am proud to once again endorse Texas Lieutenant Governor, Dan Patrick, for Re-Election!\n",
    "topics": [
@@ -226,11 +218,16 @@
    "topics": [
     "Страны-партнёры"
    ]
+  },
+  {
+   "t": "2026-11-04T17:27:54+00:00",
+   "text": "Stock Market just hit another Record High — 91 Days in just a short period of time — Less ",
+   "topics": [
+    "Фондовый рынок"
+   ]
   }
  ],
  "truth_seen": [
-  "117547657068653147",
-  "117547658160195115",
   "117547658989921148",
   "117547659752949987",
   "117547660511099420",
@@ -528,6 +525,8 @@
   "117556309377726931",
   "117556320287218255",
   "117556328694376584",
-  "117556376518256698"
+  "117556376518256698",
+  "117559258818754450",
+  "117559346773956882"
  ]
 }
