@@ -182,14 +182,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-03T13:24:24+00:00",
-   "text": "TO THE GREAT PEOPLE OF ALASKA, GET OUT AND VOTE FOR DAN S. SULLIVAN!\n \nSenator Dan S. Sull",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
    "t": "2026-11-03T13:24:34+00:00",
    "text": "It is my Great Honor to endorse America First Patriot, John E. Sununu, who is running to r",
    "topics": [
@@ -255,11 +247,17 @@
    "topics": [
     "Ближний Восток"
    ]
+  },
+  {
+   "t": "2026-11-06T18:09:41+00:00",
+   "text": "Israel and, in fact, the entire Middle East, WOULD NOT EXIST TODAY if I did not stop Iran ",
+   "topics": [
+    "Геополитика / война",
+    "Ближний Восток"
+   ]
   }
  ],
  "truth_seen": [
-  "117547668689168982",
-  "117547669491384494",
   "117547670199971157",
   "117547672382503691",
   "117547676252947847",
@@ -557,6 +555,8 @@
   "117566560747501657",
   "117566606657912243",
   "117569336938341217",
-  "117569389226840480"
+  "117569389226840480",
+  "117570819049322754",
+  "117570835652141710"
  ]
 }
