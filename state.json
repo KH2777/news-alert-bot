@@ -182,14 +182,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-03T13:24:34+00:00",
-   "text": "It is my Great Honor to endorse America First Patriot, John E. Sununu, who is running to r",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
    "t": "2026-11-03T13:24:46+00:00",
    "text": "It is my Great Honor to endorse America First Patriot, Mike Rogers, who is running for U.S",
    "topics": [
@@ -255,10 +247,16 @@
     "Геополитика / война",
     "Ближний Восток"
    ]
+  },
+  {
+   "t": "2026-11-06T18:51:30+00:00",
+   "text": "I am pleased to announce that Mr. Stephen Miller, the current Deputy Chief of Staff of the",
+   "topics": [
+    "Указы / заявления"
+   ]
   }
  ],
  "truth_seen": [
-  "117547670199971157",
   "117547672382503691",
   "117547676252947847",
   "117547684834396397",
@@ -557,6 +555,7 @@
   "117569336938341217",
   "117569389226840480",
   "117570819049322754",
-  "117570835652141710"
+  "117570835652141710",
+  "117571000109141399"
  ]
 }
