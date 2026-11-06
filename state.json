@@ -165,21 +165,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-03T13:17:31+00:00",
-   "text": "I am proud to once again endorse Texas Lieutenant Governor, Dan Patrick, for Re-Election!\n",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
-   "t": "2026-11-03T13:17:39+00:00",
-   "text": "Wilton Simpson is the strong and highly popular Agriculture Commissioner for Florida, my “",
-   "topics": [
-    "Экономика"
-   ]
-  },
-  {
    "t": "2026-11-03T13:17:48+00:00",
    "text": "Florida Attorney General James Uthmeier is doing a GREAT job for the Sunshine State, which",
    "topics": [
@@ -239,12 +224,23 @@
    "topics": [
     "Фондовый рынок"
    ]
+  },
+  {
+   "t": "2026-11-05T23:18:52+00:00",
+   "text": "The Stock Market suffered one of the Worst Days in History based on the results of the Ele",
+   "topics": [
+    "Фондовый рынок"
+   ]
+  },
+  {
+   "t": "2026-11-06T00:02:31+00:00",
+   "text": "The Stock Market crashed today because the Dumocrats had a big Tuesday — So sad to see, yo",
+   "topics": [
+    "Фондовый рынок"
+   ]
   }
  ],
  "truth_seen": [
-  "117547662543302543",
-  "117547664848381013",
-  "117547666413135797",
   "117547667293370809",
   "117547667970125401",
   "117547668689168982",
@@ -541,6 +537,9 @@
   "117560785494219046",
   "117563218876256792",
   "117564043402069442",
-  "117564115835486203"
+  "117564115835486203",
+  "117566389105992268",
+  "117566560747501657",
+  "117566606657912243"
  ]
 }
