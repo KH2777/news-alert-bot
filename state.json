@@ -167,13 +167,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-03T13:17:48+00:00",
-   "text": "Florida Attorney General James Uthmeier is doing a GREAT job for the Sunshine State, which",
-   "topics": [
-    "Экономика"
-   ]
-  },
-  {
    "t": "2026-11-03T13:24:24+00:00",
    "text": "TO THE GREAT PEOPLE OF ALASKA, GET OUT AND VOTE FOR DAN S. SULLIVAN!\n \nSenator Dan S. Sull",
    "topics": [
@@ -240,11 +233,16 @@
    "topics": [
     "Фондовый рынок"
    ]
+  },
+  {
+   "t": "2026-11-06T11:48:32+00:00",
+   "text": "NEWSMAX: “Trump is a Winner, and he’s right on Iran!”",
+   "topics": [
+    "Ближний Восток"
+   ]
   }
  ],
  "truth_seen": [
-  "117547667293370809",
-  "117547667970125401",
   "117547668689168982",
   "117547669491384494",
   "117547670199971157",
@@ -542,6 +540,8 @@
   "117564115835486203",
   "117566389105992268",
   "117566560747501657",
-  "117566606657912243"
+  "117566606657912243",
+  "117569336938341217",
+  "117569389226840480"
  ]
 }
