@@ -159,22 +159,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-03T13:24:46+00:00",
-   "text": "It is my Great Honor to endorse America First Patriot, Mike Rogers, who is running for U.S",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
-   "t": "2026-11-03T13:24:59+00:00",
-   "text": "It is my Great Honor to endorse “MAGA” Mike Collins, a Highly Respected Congressman who ha",
-   "topics": [
-    "Геополитика / война",
-    "Экономика"
-   ]
-  },
-  {
    "t": "2026-11-03T13:25:11+00:00",
    "text": "It is my Great Honor to endorse America First Patriot, Michael Whatley, who is running for",
    "topics": [
@@ -231,18 +215,23 @@
    "topics": [
     "Указы / заявления"
    ]
+  },
+  {
+   "t": "2026-11-07T18:40:20+00:00",
+   "text": "I am pleased to announce that the Great Dana White, a violent Fighter and Warrior, has bee",
+   "topics": [
+    "Указы / заявления"
+   ]
+  },
+  {
+   "t": "2026-11-07T19:55:09+00:00",
+   "text": "Daniel Sullivan is leading substantially in the Alaska Senatorial Race. When you add Danie",
+   "topics": [
+    "Указы / заявления"
+   ]
   }
  ],
  "truth_seen": [
-  "117547829739457946",
-  "117547830362234374",
-  "117547830953791977",
-  "117547831732392557",
-  "117547834243669741",
-  "117547834763075109",
-  "117547823377997196",
-  "117547824382377816",
-  "117547825277059014",
   "117547826178101076",
   "117547971150080999",
   "117547972037646311",
@@ -533,6 +522,15 @@
   "117575684780434068",
   "117576237317240178",
   "117576238725728602",
-  "117576401180733840"
+  "117576401180733840",
+  "117576618491350292",
+  "117576637813209602",
+  "117576661120815885",
+  "117576893933424183",
+  "117576894858031741",
+  "117576912671985823",
+  "117576962903788046",
+  "117576963589452045",
+  "117576964275275822"
  ]
 }
