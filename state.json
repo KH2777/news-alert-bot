@@ -141,13 +141,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-03T13:34:22+00:00",
-   "text": "TO THE GREAT PEOPLE OF NEW MEXICO, GET OUT AND VOTE FOR:\n \n– Greg Cunningham for U.S. Cong",
-   "topics": [
-    "Страны-партнёры"
-   ]
-  },
-  {
    "t": "2026-11-04T17:27:54+00:00",
    "text": "Stock Market just hit another Record High — 91 Days in just a short period of time — Less ",
    "topics": [
@@ -211,10 +204,16 @@
     "Фондовый рынок",
     "Доллар / долг / бюджет"
    ]
+  },
+  {
+   "t": "2026-11-08T20:46:51+00:00",
+   "text": "Task Force Iron Gate is in full force and effect in the Islamic Republic of Iran. Coupled ",
+   "topics": [
+    "Ближний Восток"
+   ]
   }
  ],
  "truth_seen": [
-  "117548722241141969",
   "117548723623311122",
   "117548794255120998",
   "117548803071800973",
@@ -513,6 +512,7 @@
   "117578791772773790",
   "117581137343877006",
   "117581469495786527",
-  "117581656360570548"
+  "117581656360570548",
+  "117582778301201947"
  ]
 }
