@@ -143,13 +143,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-04T17:27:54+00:00",
-   "text": "Stock Market just hit another Record High — 91 Days in just a short period of time — Less ",
-   "topics": [
-    "Фондовый рынок"
-   ]
-  },
-  {
    "t": "2026-11-05T23:18:52+00:00",
    "text": "The Stock Market suffered one of the Worst Days in History based on the results of the Ele",
    "topics": [
@@ -213,13 +206,17 @@
    "topics": [
     "Ближний Восток"
    ]
+  },
+  {
+   "t": "2026-11-09T00:05:49+00:00",
+   "text": "I am urging all Senators to vote for The American Affordability and Jobs Act (S. 5653)! Th",
+   "topics": [
+    "Китай",
+    "Экономика"
+   ]
   }
  ],
  "truth_seen": [
-  "117548723623311122",
-  "117548794255120998",
-  "117548803071800973",
-  "117548935461318532",
   "117548978479214934",
   "117548979193299382",
   "117548979867696112",
@@ -515,6 +512,10 @@
   "117581137343877006",
   "117581469495786527",
   "117581656360570548",
-  "117582778301201947"
+  "117582778301201947",
+  "117583459253586462",
+  "117583463398468108",
+  "117583471732048410",
+  "117583560661477967"
  ]
 }
