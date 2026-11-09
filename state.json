@@ -128,20 +128,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-05T23:18:52+00:00",
-   "text": "The Stock Market suffered one of the Worst Days in History based on the results of the Ele",
-   "topics": [
-    "Фондовый рынок"
-   ]
-  },
-  {
-   "t": "2026-11-06T00:02:31+00:00",
-   "text": "The Stock Market crashed today because the Dumocrats had a big Tuesday — So sad to see, yo",
-   "topics": [
-    "Фондовый рынок"
-   ]
-  },
-  {
    "t": "2026-11-06T11:48:32+00:00",
    "text": "NEWSMAX: “Trump is a Winner, and he’s right on Iran!”",
    "topics": [
@@ -199,11 +185,25 @@
     "Китай",
     "Экономика"
    ]
+  },
+  {
+   "t": "2026-11-09T20:58:41+00:00",
+   "text": "I am proud to announce that David MacNeil, the GREAT American entrepreneur and founder of ",
+   "topics": [
+    "Экономика",
+    "Указы / заявления"
+   ]
+  },
+  {
+   "t": "2026-11-09T21:29:28+00:00",
+   "text": "I had an excellent conversation with Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani, ",
+   "topics": [
+    "Геополитика / война",
+    "Ближний Восток"
+   ]
   }
  ],
  "truth_seen": [
-  "117548980480283297",
-  "117548981156876405",
   "117548981791269542",
   "117548983085038041",
   "117548983702702199",
@@ -501,6 +501,8 @@
   "117583560661477967",
   "117587105833579030",
   "117588021826292875",
-  "117588112535316576"
+  "117588112535316576",
+  "117588487146018273",
+  "117588608183719347"
  ]
 }
