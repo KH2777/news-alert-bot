@@ -129,13 +129,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-06T11:48:32+00:00",
-   "text": "NEWSMAX: “Trump is a Winner, and he’s right on Iran!”",
-   "topics": [
-    "Ближний Восток"
-   ]
-  },
-  {
    "t": "2026-11-06T18:09:41+00:00",
    "text": "Israel and, in fact, the entire Middle East, WOULD NOT EXIST TODAY if I did not stop Iran ",
    "topics": [
@@ -202,10 +195,18 @@
     "Геополитика / война",
     "Ближний Восток"
    ]
+  },
+  {
+   "t": "2026-11-10T01:36:56+00:00",
+   "text": "Defeated Republican Congressman Thomas Massie, a total loser, is trying to Impeach perhaps",
+   "topics": [
+    "Геополитика / война",
+    "Ближний Восток",
+    "Фондовый рынок"
+   ]
   }
  ],
  "truth_seen": [
-  "117548983085038041",
   "117548983702702199",
   "117549204410185404",
   "117549208401128300",
@@ -504,6 +505,7 @@
   "117588112535316576",
   "117588487146018273",
   "117588608183719347",
-  "117588981207857769"
+  "117588981207857769",
+  "117589581287691662"
  ]
 }
