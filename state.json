@@ -131,14 +131,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-08T13:49:32+00:00",
-   "text": "America took a giant step back in History with the results of the last Election — Even the",
-   "topics": [
-    "Фондовый рынок",
-    "Доллар / долг / бюджет"
-   ]
-  },
-  {
    "t": "2026-11-08T20:46:51+00:00",
    "text": "Task Force Iron Gate is in full force and effect in the Islamic Republic of Iran. Coupled ",
    "topics": [
@@ -210,10 +202,17 @@
    "topics": [
     "Отрасли"
    ]
+  },
+  {
+   "t": "2026-11-12T17:24:53+00:00",
+   "text": "I rebuilt our Military in my First Term, and we’re doing it AGAIN, bigger and better than ",
+   "topics": [
+    "Геополитика / война",
+    "Доллар / долг / бюджет"
+   ]
   }
  ],
  "truth_seen": [
-  "117549322991308849",
   "117549324440914814",
   "117549325547300107",
   "117549339070696337",
@@ -512,6 +511,7 @@
   "117603621591099598",
   "117603685944533416",
   "117604177898784579",
-  "117604296004394581"
+  "117604296004394581",
+  "117604633389956053"
  ]
 }
