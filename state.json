@@ -132,13 +132,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-06T18:51:30+00:00",
-   "text": "I am pleased to announce that Mr. Stephen Miller, the current Deputy Chief of Staff of the",
-   "topics": [
-    "Указы / заявления"
-   ]
-  },
-  {
    "t": "2026-11-07T18:40:20+00:00",
    "text": "I am pleased to announce that the Great Dana White, a violent Fighter and Warrior, has bee",
    "topics": [
@@ -208,12 +201,18 @@
     "Ближний Восток",
     "Страны-партнёры"
    ]
+  },
+  {
+   "t": "2026-11-12T12:04:10+00:00",
+   "text": "Here we go again! With the perceived loss by the Republicans in the Midterms - I WAS NOT O",
+   "topics": [
+    "Тарифы / торговля",
+    "Геополитика / война",
+    "Страны-партнёры"
+   ]
   }
  ],
  "truth_seen": [
-  "117549315168208210",
-  "117549316066937649",
-  "117549316935462361",
   "117549317735069673",
   "117549318791585885",
   "117549319523574235",
@@ -510,6 +509,9 @@
   "117596464128874330",
   "117599094721777820",
   "117599095536168590",
-  "117599261362137913"
+  "117599261362137913",
+  "117603082123932016",
+  "117603230815300802",
+  "117603372250841698"
  ]
 }
