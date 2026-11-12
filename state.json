@@ -131,13 +131,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-08T20:46:51+00:00",
-   "text": "Task Force Iron Gate is in full force and effect in the Islamic Republic of Iran. Coupled ",
-   "topics": [
-    "Ближний Восток"
-   ]
-  },
-  {
    "t": "2026-11-09T00:05:49+00:00",
    "text": "I am urging all Senators to vote for The American Affordability and Jobs Act (S. 5653)! Th",
    "topics": [
@@ -210,10 +203,16 @@
     "Геополитика / война",
     "Доллар / долг / бюджет"
    ]
+  },
+  {
+   "t": "2026-11-12T18:41:03+00:00",
+   "text": "Senator Chuck Schumer just stated that he wants to end corruption in the United States. I ",
+   "topics": [
+    "Доллар / долг / бюджет"
+   ]
   }
  ],
  "truth_seen": [
-  "117549324440914814",
   "117549325547300107",
   "117549339070696337",
   "117549340515171931",
@@ -512,6 +511,7 @@
   "117603685944533416",
   "117604177898784579",
   "117604296004394581",
-  "117604633389956053"
+  "117604633389956053",
+  "117604932901982469"
  ]
 }
