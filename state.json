@@ -132,13 +132,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-07T18:40:20+00:00",
-   "text": "I am pleased to announce that the Great Dana White, a violent Fighter and Warrior, has bee",
-   "topics": [
-    "Указы / заявления"
-   ]
-  },
-  {
    "t": "2026-11-07T19:55:09+00:00",
    "text": "Daniel Sullivan is leading substantially in the Alaska Senatorial Race. When you add Danie",
    "topics": [
@@ -210,12 +203,17 @@
     "Геополитика / война",
     "Страны-партнёры"
    ]
+  },
+  {
+   "t": "2026-11-12T13:07:34+00:00",
+   "text": "I have asked Vice President Vance to focus his complete and total attention on the Massive",
+   "topics": [
+    "Ближний Восток",
+    "Доллар / долг / бюджет"
+   ]
   }
  ],
  "truth_seen": [
-  "117549317735069673",
-  "117549318791585885",
-  "117549319523574235",
   "117549320938439687",
   "117549322139819111",
   "117549322991308849",
@@ -512,6 +510,9 @@
   "117599261362137913",
   "117603082123932016",
   "117603230815300802",
-  "117603372250841698"
+  "117603372250841698",
+  "117603494411017954",
+  "117603621591099598",
+  "117603685944533416"
  ]
 }
