@@ -126,14 +126,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-09T00:05:49+00:00",
-   "text": "I am urging all Senators to vote for The American Affordability and Jobs Act (S. 5653)! Th",
-   "topics": [
-    "Китай",
-    "Экономика"
-   ]
-  },
-  {
    "t": "2026-11-09T20:58:41+00:00",
    "text": "I am proud to announce that David MacNeil, the GREAT American entrepreneur and founder of ",
    "topics": [
@@ -205,11 +197,17 @@
    "topics": [
     "Доллар / долг / бюджет"
    ]
+  },
+  {
+   "t": "2026-11-13T22:52:34+00:00",
+   "text": "I am working with Senator Tim Scott and, believe it or not, Senator Adam Schiff, and, addi",
+   "topics": [
+    "Доллар / долг / бюджет",
+    "Страны-партнёры"
+   ]
   }
  ],
  "truth_seen": [
-  "117549358961707925",
-  "117549359622733850",
   "117549360567398833",
   "117549361544392625",
   "117549362215165349",
@@ -507,6 +505,8 @@
   "117606070721302149",
   "117606259365899322",
   "117608870505558230",
-  "117609500488513990"
+  "117609500488513990",
+  "117611584206041319",
+  "117611608680849019"
  ]
 }
