@@ -126,22 +126,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-09T20:58:41+00:00",
-   "text": "I am proud to announce that David MacNeil, the GREAT American entrepreneur and founder of ",
-   "topics": [
-    "Экономика",
-    "Указы / заявления"
-   ]
-  },
-  {
-   "t": "2026-11-09T21:29:28+00:00",
-   "text": "I had an excellent conversation with Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani, ",
-   "topics": [
-    "Геополитика / война",
-    "Ближний Восток"
-   ]
-  },
-  {
    "t": "2026-11-10T01:36:56+00:00",
    "text": "Defeated Republican Congressman Thomas Massie, a total loser, is trying to Impeach perhaps",
    "topics": [
@@ -205,12 +189,24 @@
     "Доллар / долг / бюджет",
     "Страны-партнёры"
    ]
+  },
+  {
+   "t": "2026-11-14T17:38:19+00:00",
+   "text": "I am working with Senator Tim Scott and, believe it or not, Senator Adam Schiff, and, addi",
+   "topics": [
+    "Доллар / долг / бюджет",
+    "Страны-партнёры"
+   ]
+  },
+  {
+   "t": "2026-11-14T17:39:15+00:00",
+   "text": "“I’m going to fight and get all of the President’s Nominees confirmed. Get the Permitting ",
+   "topics": [
+    "Геополитика / война"
+   ]
   }
  ],
  "truth_seen": [
-  "117549361544392625",
-  "117549362215165349",
-  "117549362971285153",
   "117549363649605179",
   "117549364326224452",
   "117549365107050542",
@@ -507,6 +503,9 @@
   "117609500488513990",
   "117611584206041319",
   "117611608680849019",
-  "117615368066065400"
+  "117615368066065400",
+  "117616010798312169",
+  "117616014481394036",
+  "117616020655749477"
  ]
 }
