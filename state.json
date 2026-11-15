@@ -126,15 +126,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-10T01:36:56+00:00",
-   "text": "Defeated Republican Congressman Thomas Massie, a total loser, is trying to Impeach perhaps",
-   "topics": [
-    "Геополитика / война",
-    "Ближний Восток",
-    "Фондовый рынок"
-   ]
-  },
-  {
    "t": "2026-11-10T23:24:08+00:00",
    "text": "The Democrats’ attempt to impeach Secretary of War Pete Hegseth has miserably FAILED! Ever",
    "topics": [
@@ -204,10 +195,16 @@
    "topics": [
     "Геополитика / война"
    ]
+  },
+  {
+   "t": "2026-11-15T00:50:04+00:00",
+   "text": "Has anyone noticed that immediately after the Election the Stock Market lost 3 Trillion Do",
+   "topics": [
+    "Фондовый рынок"
+   ]
   }
  ],
  "truth_seen": [
-  "117549384265482007",
   "117549384922095836",
   "117549385507547999",
   "117549386155077213",
@@ -506,6 +503,7 @@
   "117616454522358249",
   "117616455572752619",
   "117616471014747868",
-  "117617041335738125"
+  "117617041335738125",
+  "117617708553644602"
  ]
 }
