@@ -113,15 +113,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-12T12:04:10+00:00",
-   "text": "Here we go again! With the perceived loss by the Republicans in the Midterms - I WAS NOT O",
-   "topics": [
-    "Тарифы / торговля",
-    "Геополитика / война",
-    "Страны-партнёры"
-   ]
-  },
-  {
    "t": "2026-11-12T13:07:34+00:00",
    "text": "I have asked Vice President Vance to focus his complete and total attention on the Massive",
    "topics": [
@@ -187,10 +178,17 @@
    "topics": [
     "Экономика"
    ]
+  },
+  {
+   "t": "2026-11-15T19:21:01+00:00",
+   "text": "Exclusive — Iraqi President Nizar Amedi: President Trump ‘Very Significantly Important Man",
+   "topics": [
+    "Геополитика / война",
+    "Ближний Восток"
+   ]
   }
  ],
  "truth_seen": [
-  "117548940975730053",
   "117548968575947811",
   "117548973912202629",
   "117548721226942042",
@@ -489,6 +487,7 @@
   "117620744239777031",
   "117620933637807515",
   "117621326974892115",
-  "117621327546745159"
+  "117621327546745159",
+  "117622076975145007"
  ]
 }
