@@ -112,15 +112,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-10T23:24:08+00:00",
-   "text": "The Democrats’ attempt to impeach Secretary of War Pete Hegseth has miserably FAILED! Ever",
-   "topics": [
-    "Геополитика / война",
-    "Ближний Восток",
-    "Страны-партнёры"
-   ]
-  },
-  {
    "t": "2026-11-12T12:04:10+00:00",
    "text": "Here we go again! With the perceived loss by the Republicans in the Midterms - I WAS NOT O",
    "topics": [
@@ -188,13 +179,16 @@
    "topics": [
     "Фондовый рынок"
    ]
+  },
+  {
+   "t": "2026-11-15T14:30:15+00:00",
+   "text": "Biden appointed Judge Reyes has delayed, for yet another two weeks, the fix up and reconst",
+   "topics": [
+    "Экономика"
+   ]
   }
  ],
  "truth_seen": [
-  "117549387424202282",
-  "117549388131357101",
-  "117549388831184572",
-  "117549389721806479",
   "117549391621954717",
   "117549392638329912",
   "117548940975730053",
@@ -490,6 +484,10 @@
   "117617925898523147",
   "117618181388403813",
   "117618182102449443",
-  "117618190139423939"
+  "117618190139423939",
+  "117620643696909295",
+  "117620719333478761",
+  "117620744239777031",
+  "117620933637807515"
  ]
 }
