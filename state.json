@@ -124,14 +124,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-13T22:52:34+00:00",
-   "text": "I am working with Senator Tim Scott and, believe it or not, Senator Adam Schiff, and, addi",
-   "topics": [
-    "Доллар / долг / бюджет",
-    "Страны-партнёры"
-   ]
-  },
-  {
    "t": "2026-11-14T17:38:19+00:00",
    "text": "I am working with Senator Tim Scott and, believe it or not, Senator Adam Schiff, and, addi",
    "topics": [
@@ -198,10 +190,18 @@
    "topics": [
     "Геополитика / война"
    ]
+  },
+  {
+   "t": "2026-11-17T22:09:46+00:00",
+   "text": "RT: https://truthsocial.com/users/Schoenlaw/statuses/117632129147481602Biggest drop in gas",
+   "topics": [
+    "Нефть / энергетика",
+    "Фондовый рынок",
+    "Экономика"
+   ]
   }
  ],
  "truth_seen": [
-  "117549832641538918",
   "117549833360870067",
   "117549834242650471",
   "117549834474544371",
@@ -500,6 +500,7 @@
   "117629430343436515",
   "117629431646825873",
   "117629431855296138",
-  "117629573147086367"
+  "117629573147086367",
+  "117634065135557984"
  ]
 }
