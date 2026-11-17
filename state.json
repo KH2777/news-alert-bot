@@ -117,21 +117,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-12T17:24:53+00:00",
-   "text": "I rebuilt our Military in my First Term, and we’re doing it AGAIN, bigger and better than ",
-   "topics": [
-    "Геополитика / война",
-    "Доллар / долг / бюджет"
-   ]
-  },
-  {
-   "t": "2026-11-12T18:41:03+00:00",
-   "text": "Senator Chuck Schumer just stated that he wants to end corruption in the United States. I ",
-   "topics": [
-    "Доллар / долг / бюджет"
-   ]
-  },
-  {
    "t": "2026-11-13T22:52:34+00:00",
    "text": "I am working with Senator Tim Scott and, believe it or not, Senator Adam Schiff, and, addi",
    "topics": [
@@ -190,13 +175,25 @@
     "Геополитика / война",
     "Ближний Восток"
    ]
+  },
+  {
+   "t": "2026-11-17T00:42:06+00:00",
+   "text": "Under my leadership, our Economy is booming! New Businesses created in America have reache",
+   "topics": [
+    "Фондовый рынок",
+    "Доллар / долг / бюджет",
+    "Экономика"
+   ]
+  },
+  {
+   "t": "2026-11-17T00:44:37+00:00",
+   "text": "Despite the United States having the MOST ABUNDANT Supply, and LOWEST COST Natural Gas in ",
+   "topics": [
+    "Геополитика / война"
+   ]
   }
  ],
  "truth_seen": [
-  "117549620456247681",
-  "117549622340028130",
-  "117549816681363206",
-  "117549818061578663",
   "117549820408877420",
   "117549822570920008",
   "117549824715923945",
@@ -492,6 +489,10 @@
   "117625791706744860",
   "117625792377654324",
   "117626544494395657",
-  "117628158994757478"
+  "117628158994757478",
+  "117628855811516036",
+  "117628858669518545",
+  "117629001831609398",
+  "117629011695762969"
  ]
 }
