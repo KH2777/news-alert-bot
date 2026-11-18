@@ -131,14 +131,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-14T17:38:19+00:00",
-   "text": "I am working with Senator Tim Scott and, believe it or not, Senator Adam Schiff, and, addi",
-   "topics": [
-    "Доллар / долг / бюджет",
-    "Страны-партнёры"
-   ]
-  },
-  {
    "t": "2026-11-14T17:39:15+00:00",
    "text": "“I’m going to fight and get all of the President’s Nominees confirmed. Get the Permitting ",
    "topics": [
@@ -206,10 +198,18 @@
     "Фондовый рынок",
     "Экономика"
    ]
+  },
+  {
+   "t": "2026-11-18T07:44:12+00:00",
+   "text": "I am now heading to China, from the Philippines, where we had a wonderful meeting on Trade",
+   "topics": [
+    "Тарифы / торговля",
+    "Китай",
+    "Указы / заявления"
+   ]
   }
  ],
  "truth_seen": [
-  "117549834242650471",
   "117549834474544371",
   "117550335264406152",
   "117549597886057774",
@@ -508,6 +508,7 @@
   "117629431855296138",
   "117629573147086367",
   "117634065135557984",
-  "117634741427255539"
+  "117634741427255539",
+  "117636323928351024"
  ]
 }
