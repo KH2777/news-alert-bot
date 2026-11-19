@@ -10,7 +10,7 @@
   },
   "ES": {
    "dir": -1,
-   "t": "2026-11-19T15:35:38.309829+00:00"
+   "t": "2026-11-19T17:05:36.084953+00:00"
   },
   "ETH": {
    "dir": -1,
@@ -26,7 +26,7 @@
   },
   "NQ": {
    "dir": -1,
-   "t": "2026-11-19T15:31:41.947571+00:00"
+   "t": "2026-11-19T17:05:36.084953+00:00"
   },
   "OIL": {
    "dir": -1,
@@ -141,13 +141,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-14T17:39:15+00:00",
-   "text": "“I’m going to fight and get all of the President’s Nominees confirmed. Get the Permitting ",
-   "topics": [
-    "Геополитика / война"
-   ]
-  },
-  {
    "t": "2026-11-15T00:50:04+00:00",
    "text": "Has anyone noticed that immediately after the Election the Stock Market lost 3 Trillion Do",
    "topics": [
@@ -217,10 +210,17 @@
     "Китай",
     "Указы / заявления"
    ]
+  },
+  {
+   "t": "2026-11-19T17:01:03+00:00",
+   "text": "Heading back to Washington, D.C., from China. It was a Great and Highly Consequential Trip",
+   "topics": [
+    "Тарифы / торговля",
+    "Китай"
+   ]
   }
  ],
  "truth_seen": [
-  "117552457251753833",
   "117552479771067918",
   "117552480272183176",
   "117552480855258770",
@@ -519,6 +519,7 @@
   "117643385705539849",
   "117643411523684183",
   "117644162493926914",
-  "117644166883657566"
+  "117644166883657566",
+  "117644175826027343"
  ]
 }
