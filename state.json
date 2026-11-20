@@ -142,13 +142,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-15T00:50:04+00:00",
-   "text": "Has anyone noticed that immediately after the Election the Stock Market lost 3 Trillion Do",
-   "topics": [
-    "Фондовый рынок"
-   ]
-  },
-  {
    "t": "2026-11-15T14:30:15+00:00",
    "text": "Biden appointed Judge Reyes has delayed, for yet another two weeks, the fix up and reconst",
    "topics": [
@@ -219,11 +212,16 @@
     "Тарифы / торговля",
     "Китай"
    ]
+  },
+  {
+   "t": "2026-11-20T00:32:32+00:00",
+   "text": "President of the United States Donald J. Trump and The John F. Kennedy Center for the Perf",
+   "topics": [
+    "Указы / заявления"
+   ]
   }
  ],
  "truth_seen": [
-  "117552489911701263",
-  "117552490475949368",
   "117552494016911225",
   "117552481837716046",
   "117552694023605630",
@@ -521,6 +519,8 @@
   "117645423615781506",
   "117645424343773351",
   "117645456112067286",
-  "117645541918545911"
+  "117645541918545911",
+  "117645941688172584",
+  "117645951137512393"
  ]
 }
