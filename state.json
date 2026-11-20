@@ -134,13 +134,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-15T14:30:15+00:00",
-   "text": "Biden appointed Judge Reyes has delayed, for yet another two weeks, the fix up and reconst",
-   "topics": [
-    "Экономика"
-   ]
-  },
-  {
    "t": "2026-11-15T19:21:01+00:00",
    "text": "Exclusive — Iraqi President Nizar Amedi: President Trump ‘Very Significantly Important Man",
    "topics": [
@@ -211,10 +204,18 @@
    "topics": [
     "Указы / заявления"
    ]
+  },
+  {
+   "t": "2026-11-20T13:03:07+00:00",
+   "text": "RT @SchoenlawBy engaging in an unprecedented tripartite summit with the leaders of China a",
+   "topics": [
+    "Китай",
+    "Геополитика / война",
+    "Россия / Украина"
+   ]
   }
  ],
  "truth_seen": [
-  "117552696689242370",
   "117552697172635076",
   "117552698979611720",
   "117552699890579848",
@@ -513,6 +514,7 @@
   "117645971016970582",
   "117646008897162950",
   "117646011072437950",
-  "117646261644090852"
+  "117646261644090852",
+  "117648902586194402"
  ]
 }
