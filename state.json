@@ -130,23 +130,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-16T14:17:10+00:00",
-   "text": "The new people running 60 Minutes are even worse than their predecessors. A recent study o",
-   "topics": [
-    "Геополитика / война",
-    "Ближний Восток"
-   ]
-  },
-  {
-   "t": "2026-11-17T00:42:06+00:00",
-   "text": "Under my leadership, our Economy is booming! New Businesses created in America have reache",
-   "topics": [
-    "Фондовый рынок",
-    "Доллар / долг / бюджет",
-    "Экономика"
-   ]
-  },
-  {
    "t": "2026-11-17T00:44:37+00:00",
    "text": "Despite the United States having the MOST ABUNDANT Supply, and LOWEST COST Natural Gas in ",
    "topics": [
@@ -208,11 +191,26 @@
    "topics": [
     "Фондовый рынок"
    ]
+  },
+  {
+   "t": "2026-11-22T21:47:46+00:00",
+   "text": "As everyone remembers, I predicted two things concerning the November 3rd Midterm Election",
+   "topics": [
+    "Нефть / энергетика",
+    "Геополитика / война",
+    "Ближний Восток"
+   ]
+  },
+  {
+   "t": "2026-11-22T21:49:11+00:00",
+   "text": "Isn’t it interesting that Oil prices have dropped precipitously after the Midterm Election",
+   "topics": [
+    "Нефть / энергетика",
+    "Экономика"
+   ]
   }
  ],
  "truth_seen": [
-  "117552667167774154",
-  "117552667677698494",
   "117552668224105045",
   "117552668784063388",
   "117552669292832509",
@@ -510,6 +508,8 @@
   "117661248657891612",
   "117661447235607485",
   "117662086130550876",
-  "117662138213122537"
+  "117662138213122537",
+  "117662290160182921",
+  "117662295722625733"
  ]
 }
