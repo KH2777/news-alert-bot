@@ -129,14 +129,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-15T19:21:01+00:00",
-   "text": "Exclusive — Iraqi President Nizar Amedi: President Trump ‘Very Significantly Important Man",
-   "topics": [
-    "Геополитика / война",
-    "Ближний Восток"
-   ]
-  },
-  {
    "t": "2026-11-16T01:40:12+00:00",
    "text": "A must read!!!\nIf You Think War Is Unpopular, Wait Till You See Defeat:\nwsj.com/opinion/if",
    "topics": [
@@ -208,10 +200,16 @@
     "Геополитика / война",
     "Россия / Украина"
    ]
+  },
+  {
+   "t": "2026-11-22T13:41:41+00:00",
+   "text": "It is going to be very hard for me to work with Chuck Schumer should he become Senate Majo",
+   "topics": [
+    "Россия / Украина"
+   ]
   }
  ],
  "truth_seen": [
-  "117552721140395824",
   "117552721908914721",
   "117552722474039004",
   "117552723229866028",
@@ -510,6 +508,7 @@
   "117656497080448040",
   "117656497512509892",
   "117656498566433746",
-  "117660247395378881"
+  "117660247395378881",
+  "117660378819768000"
  ]
 }
