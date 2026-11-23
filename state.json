@@ -129,14 +129,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-19T17:01:03+00:00",
-   "text": "Heading back to Washington, D.C., from China. It was a Great and Highly Consequential Trip",
-   "topics": [
-    "Тарифы / торговля",
-    "Китай"
-   ]
-  },
-  {
    "t": "2026-11-20T00:32:32+00:00",
    "text": "President of the United States Donald J. Trump and The John F. Kennedy Center for the Perf",
    "topics": [
@@ -204,10 +196,16 @@
    "topics": [
     "Отрасли"
    ]
+  },
+  {
+   "t": "2026-11-23T18:00:54+00:00",
+   "text": "Iowa is a very special place to me, a place that I won, by substantial margins, in all thr",
+   "topics": [
+    "Геополитика / война"
+   ]
   }
  ],
  "truth_seen": [
-  "117552679591726810",
   "117552680122964812",
   "117552682320206075",
   "117552682905885705",
@@ -506,6 +504,7 @@
   "117665529427047942",
   "117666141823845971",
   "117666313179684854",
-  "117666713950631493"
+  "117666713950631493",
+  "117667060434959655"
  ]
 }
