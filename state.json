@@ -135,13 +135,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-17T00:44:37+00:00",
-   "text": "Despite the United States having the MOST ABUNDANT Supply, and LOWEST COST Natural Gas in ",
-   "topics": [
-    "Геополитика / война"
-   ]
-  },
-  {
    "t": "2026-11-17T22:09:46+00:00",
    "text": "RT: https://truthsocial.com/users/Schoenlaw/statuses/117632129147481602Biggest drop in gas",
    "topics": [
@@ -213,10 +206,16 @@
     "Нефть / энергетика",
     "Экономика"
    ]
+  },
+  {
+   "t": "2026-11-23T02:54:45+00:00",
+   "text": "I hope the Board of Nvidia rehires Jensen Huang. It would be the best thing for the Compan",
+   "topics": [
+    "Отрасли"
+   ]
   }
  ],
  "truth_seen": [
-  "117552668784063388",
   "117552669292832509",
   "117552669856888598",
   "117552670388886289",
@@ -515,6 +514,7 @@
   "117662138213122537",
   "117662290160182921",
   "117662295722625733",
-  "117662311303966632"
+  "117662311303966632",
+  "117663497310955803"
  ]
 }
