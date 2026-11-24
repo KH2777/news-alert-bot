@@ -128,13 +128,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-20T00:32:32+00:00",
-   "text": "President of the United States Donald J. Trump and The John F. Kennedy Center for the Perf",
-   "topics": [
-    "Указы / заявления"
-   ]
-  },
-  {
    "t": "2026-11-20T13:03:07+00:00",
    "text": "RT @SchoenlawBy engaging in an unprecedented tripartite summit with the leaders of China a",
    "topics": [
@@ -202,10 +195,16 @@
    "topics": [
     "Геополитика / война"
    ]
+  },
+  {
+   "t": "2026-11-24T17:08:51+00:00",
+   "text": "I am proud to announce that the FIFA Women's World Cup 2031 will take place in the United ",
+   "topics": [
+    "Указы / заявления"
+   ]
   }
  ],
  "truth_seen": [
-  "117552682320206075",
   "117552682905885705",
   "117552683469958011",
   "117552690758330911",
@@ -504,6 +503,7 @@
   "117666313179684854",
   "117666713950631493",
   "117667060434959655",
-  "117667276373895254"
+  "117667276373895254",
+  "117672518077966619"
  ]
 }
