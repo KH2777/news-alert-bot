@@ -130,13 +130,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-23T02:54:45+00:00",
-   "text": "I hope the Board of Nvidia rehires Jensen Huang. It would be the best thing for the Compan",
-   "topics": [
-    "Отрасли"
-   ]
-  },
-  {
    "t": "2026-11-23T14:07:17+00:00",
    "text": "The NVIDIA Board of Directors has made the correct and proper decision to return Jensen Hu",
    "topics": [
@@ -203,10 +196,18 @@
    "topics": [
     "Экономика"
    ]
+  },
+  {
+   "t": "2026-11-26T14:53:57+00:00",
+   "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117683175541431490During my con",
+   "topics": [
+    "Китай",
+    "Геополитика / война",
+    "Россия / Украина"
+   ]
   }
  ],
  "truth_seen": [
-  "117552665686441284",
   "117552769135757700",
   "117552772041714561",
   "117552773993842509",
@@ -505,6 +506,7 @@
   "117682778730108467",
   "117683175541431490",
   "117683194517889136",
-  "117683199090516818"
+  "117683199090516818",
+  "117683312242798397"
  ]
 }
