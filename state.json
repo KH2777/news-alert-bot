@@ -137,13 +137,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-22T13:41:41+00:00",
-   "text": "It is going to be very hard for me to work with Chuck Schumer should he become Senate Majo",
-   "topics": [
-    "Россия / Украина"
-   ]
-  },
-  {
    "t": "2026-11-22T17:20:20+00:00",
    "text": "The Market is down more than 6 Trillion Dollars since the Democrats’ rather strange “win” ",
    "topics": [
@@ -209,10 +202,18 @@
    "topics": [
     "Фондовый рынок"
    ]
+  },
+  {
+   "t": "2026-11-26T05:47:03+00:00",
+   "text": "David E. Sanger, the mediocre reporter for the Failing New York Times, didn’t mention in h",
+   "topics": [
+    "Ближний Восток",
+    "Фондовый рынок",
+    "Страны-партнёры"
+   ]
   }
  ],
  "truth_seen": [
-  "117552662729603121",
   "117552663368845656",
   "117552663922005966",
   "117552664503113646",
@@ -511,6 +512,7 @@
   "117681011948883217",
   "117681028182445943",
   "117681042348270942",
-  "117681046599820049"
+  "117681046599820049",
+  "117681161738909385"
  ]
 }
