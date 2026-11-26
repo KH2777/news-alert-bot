@@ -130,23 +130,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-22T21:47:46+00:00",
-   "text": "As everyone remembers, I predicted two things concerning the November 3rd Midterm Election",
-   "topics": [
-    "Нефть / энергетика",
-    "Геополитика / война",
-    "Ближний Восток"
-   ]
-  },
-  {
-   "t": "2026-11-22T21:49:11+00:00",
-   "text": "Isn’t it interesting that Oil prices have dropped precipitously after the Midterm Election",
-   "topics": [
-    "Нефть / энергетика",
-    "Экономика"
-   ]
-  },
-  {
    "t": "2026-11-23T02:54:45+00:00",
    "text": "I hope the Board of Nvidia rehires Jensen Huang. It would be the best thing for the Compan",
    "topics": [
@@ -204,11 +187,25 @@
    "topics": [
     "Экономика"
    ]
+  },
+  {
+   "t": "2026-11-26T14:19:11+00:00",
+   "text": "A JOINT STATEMENT MADE BY PRESIDENT DONALD J. TRUMP AND SECRETARY GENERAL OF NATO, MARK RU",
+   "topics": [
+    "Геополитика / война",
+    "Россия / Украина",
+    "Ближний Восток"
+   ]
+  },
+  {
+   "t": "2026-11-26T14:24:01+00:00",
+   "text": "It was just revealed that the REAL Numbers on the Economy, published before the Election, ",
+   "topics": [
+    "Экономика"
+   ]
   }
  ],
  "truth_seen": [
-  "117552663922005966",
-  "117552664503113646",
   "117552665093158018",
   "117552665686441284",
   "117552769135757700",
@@ -506,6 +503,8 @@
   "117681042348270942",
   "117681046599820049",
   "117681161738909385",
-  "117682778730108467"
+  "117682778730108467",
+  "117683175541431490",
+  "117683194517889136"
  ]
 }
