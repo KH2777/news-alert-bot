@@ -133,13 +133,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-22T17:20:20+00:00",
-   "text": "The Market is down more than 6 Trillion Dollars since the Democrats’ rather strange “win” ",
-   "topics": [
-    "Фондовый рынок"
-   ]
-  },
-  {
    "t": "2026-11-22T21:47:46+00:00",
    "text": "As everyone remembers, I predicted two things concerning the November 3rd Midterm Election",
    "topics": [
@@ -207,10 +200,16 @@
     "Фондовый рынок",
     "Страны-партнёры"
    ]
+  },
+  {
+   "t": "2026-11-26T12:38:16+00:00",
+   "text": "“U.S. Q3 GDP just got revised UP to a massive +4.3% — shattering expert predictions and ne",
+   "topics": [
+    "Экономика"
+   ]
   }
  ],
  "truth_seen": [
-  "117552663368845656",
   "117552663922005966",
   "117552664503113646",
   "117552665093158018",
@@ -509,6 +508,7 @@
   "117681028182445943",
   "117681042348270942",
   "117681046599820049",
-  "117681161738909385"
+  "117681161738909385",
+  "117682778730108467"
  ]
 }
