@@ -130,14 +130,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-23T14:07:17+00:00",
-   "text": "The NVIDIA Board of Directors has made the correct and proper decision to return Jensen Hu",
-   "topics": [
-    "Экономика",
-    "Отрасли"
-   ]
-  },
-  {
    "t": "2026-11-23T14:50:52+00:00",
    "text": "Congratulations to NVIDIA on having made, what I consider to be, an absolutely GREAT decis",
    "topics": [
@@ -205,10 +197,16 @@
     "Геополитика / война",
     "Россия / Украина"
    ]
+  },
+  {
+   "t": "2026-11-26T15:45:00+00:00",
+   "text": "HAPPY THANKSGIVING TO ALL AMERICAN PATRIOTS WHO HAVE WORKED SO HARD TO MAKE OUR COUNTRY GR",
+   "topics": [
+    "Экономика"
+   ]
   }
  ],
  "truth_seen": [
-  "117552769135757700",
   "117552772041714561",
   "117552773993842509",
   "117552775545165585",
@@ -507,6 +505,7 @@
   "117683175541431490",
   "117683194517889136",
   "117683199090516818",
-  "117683312242798397"
+  "117683312242798397",
+  "117683512952489451"
  ]
 }
