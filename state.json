@@ -123,13 +123,6 @@
  "truth_init": true,
  "truth_recent": [
   {
-   "t": "2026-11-23T14:50:52+00:00",
-   "text": "Congratulations to NVIDIA on having made, what I consider to be, an absolutely GREAT decis",
-   "topics": [
-    "Отрасли"
-   ]
-  },
-  {
    "t": "2026-11-23T18:00:54+00:00",
    "text": "Iowa is a very special place to me, a place that I won, by substantial margins, in all thr",
    "topics": [
@@ -197,10 +190,16 @@
    "topics": [
     "Экономика"
    ]
+  },
+  {
+   "t": "2026-11-27T10:23:58+00:00",
+   "text": "We support Iraqi Prime Minister Ali al-Zaidi’s efforts to assert state authority throughou",
+   "topics": [
+    "Нефть / энергетика"
+   ]
   }
  ],
  "truth_seen": [
-  "117552777144209024",
   "117552778453242534",
   "117552779865279715",
   "117552781341844180",
@@ -499,6 +498,7 @@
   "117683512952489451",
   "117684190363972495",
   "117684273895653312",
-  "117684866618422751"
+  "117684866618422751",
+  "117687912933180934"
  ]
 }
